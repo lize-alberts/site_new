@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Alex Johnson
+title: Lize Alberts
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Lize
+last_name: Alberts
 
-# Pronouns (optional)
-pronouns: he/him
+# # Pronouns (optional)
+# pronouns: 
 
-# Status emoji
-status:
-  icon: 🚀
+# # Status emoji
+# status:
+#   icon: 🚀
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,80 +23,149 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Assistant Professor AI & Behaviour
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: VU Amsterdam
+    url: https://research.vu.nl/en/persons/lize-alberts
+  # - name: Stellenbosch University
+  #   url: https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/ 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
-  - icon: brands/github
-    url: https://github.com/alexjohnsonai
+  # - icon: brands/x
+  #   url: https://twitter.com/AlexAIResearch
+  # - icon: brands/github
+  #   url: https://github.com/alexjohnsonai
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/lize-alberts-5a2097159/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://scholar.google.com/citations?hl=en&user=AeNBSEYAAAAJ#
+  - icon: at-symbol
+    url: 'mailto:l.alberts@vu.nl'
+    label: E-mail Me
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/0000-0001-6669-1084
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Human-Centred AI
+  - Applied Behavioural Psychology
+  - LLM Eval & Alignment
+  - Ethics of Human-Agent Interaction
+  - Computational Linguistics
+  - Philosophy of Language & Cognition
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: DPhil Computer Science | Human-Centred AI
+    institution: University of Oxford, Google Research
+    date_start: 2020-09-01
+    date_end: 2025-01-01
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis on contextual alignment of social and agentic AI. Novel framework for evaluating how digital social actors treat people in interactions.
+      
+      Part completed as Student Researcher at Google.
+    url: /#detailed-ed
     button:
-      text: 'Read Thesis'
+      text: 'PhD Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+  - area: MA Philosophy | Cognitive & Computational Linguistics
+    institution: Stellenbosch University
+    date_start: 2020-01-14
+    date_end: 2020-11-15
     summary: |
-      GPA: 4.0/4.0
+      Thesis on grounded language learning and the nature of language understanding in AI. Combines research in NLU, philosophy, and cognitive & computational linguistics to assess limitations and opportunities.
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
+      Interdisciplinary research thesis (140 pages). Grade: 84%
+    url: /#detailed-ed
+    button:
+      text: 'Masters Thesis'
+      url: 'https://example.com/thesis.pdf'
+  - area: BA Hons Philosophy | Computational Linguistics
+    institution: Stellenbosch University, University of Bristol
     date_start: 2009-09-01
-    date_end: 2013-05-31
+    date_end: 2019-03-15
     summary: |
-      GPA: 3.9/4.0
+      Dissertation on computational linguistics published in peer-reviewed journal. Grade: 88%
 
-      Minored in Mathematics. President of AI Club.
-
-work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    company_logo: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+      Courses: Probability and Rationality, Nietzsche, Philosophical Issues of the Physical Sciences, Philosophy of Language. 
+      Graduated Cum Laude (82%)
+    url: /#detailed-ed
+    button:
+      text: 'Hons Dissertation'
+      url: 'https://example.com/thesis.pdf'
+  - area: BA Humanities
+    institution: NWU Potchefstroom
+    date_start: 2015-01-13
+    date_end: 2018-03-15
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Completed credits for two degrees: Philosophy and the Social Sciences; Art History and English Linguistics. 
+
+      Graduated with distinction (82%). Received merits for top course achievements (Urban Anthropology, Medical Anthropology) and top overall achievement in Philosophy.
+    url: /#detailed-ed
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com/thesis.pdf'
+
+# work:
+#   - position: Assistant Professor
+#     company_name: Meta AI
+#     company_url: 'https://ai.meta.com/'
+#     company_logo: 
+#     date_start: 2020-01-01
+#     date_end: ''
+#     summary: |2-
+#       Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
+#   - position: Associate Editor
+#     company_name: OpenAI
+#     company_url: 'https://openai.com/'
+#     company_logo: ''
+#     date_start: 2019-06-01
+#     date_end: 2019-12-31
+#     summary: |
+#       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+#   - position: Research Fellow
+#     company_name: OpenAI
+#     company_url: 'https://openai.com/'
+#     company_logo: ''
+#     date_start: 2019-06-01
+#     date_end: 2019-12-31
+#     summary: |
+#       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+#   - position: Student Researcher
+#     company_name: Google
+#     company_url: 'https://openai.com/'
+#     company_logo: ''
+#     date_start: 2019-06-01
+#     date_end: 2019-12-31
+#     summary: |
+#   #     Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+#   # - position: Graduate Assessor
+#   #   company_name: Ellison Institute of Technology
+#   #   company_url: 'https://openai.com/'
+#   #   company_logo: ''
+#   #   date_start: 2019-06-01
+#   #   date_end: 2019-12-31
+#   #   summary: |
+#   #     Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+#   - position: Masterclass Leader
+#     company_name: Royal Institute
+#     company_url: 'https://openai.com/'
+#     company_logo: ''
+#     date_start: 2019-06-01
+#     date_end: 2019-12-31
+#     summary: |
+#       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+#   - position: Teaching Assistant and Tutor
+#     company_name: Royal Institute
+#     company_url: 'https://openai.com/'
+#     company_logo: ''
+#     date_start: 2019-06-01
+#     date_end: 2019-12-31
+#     summary: |
+#       Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -106,7 +175,7 @@ skills:
       - name: Python & PyTorch
         description: ''
         percent: 95
-        icon: code-bracket
+        icon: cfi
       - name: Machine Learning
         description: ''
         percent: 100
@@ -130,40 +199,64 @@ skills:
       - name: Sci-Fi Reading
         description: ''
         percent: 70
-        icon: book-open
+#         icon: book-open
 
-languages:
-  - name: English
-    percent: 100
-  - name: Spanish
-    percent: 50
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Spanish
+#     percent: 50
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
-    icon: hero/trophy
+  - title: Graduate Lighthouse Scholarship
+    # url: https://neurips.cc/
+    date: '2020-09-01'
+    awarder: University of Oxford, Responsible Technology Institute
+    icon: 
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
+      Highly competitive full scholarship from Oxford University to fund DPhil projects in computer science for topics related to responsible innovation.
+  - title: Excellent Academic Achievement
+    # url: https://www.nsf.gov/
+    date: '2017-11-15'
+    awarder: NWU Potchefstroom
+    # icon: hero/currency-dollar
     summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
+      Best overall achievement in Philosophy.
+  - title: Best Academic Achievement
+    # url: https://www.nsf.gov/
+    date: '2017-11-15'
+    awarder: NWU Potchefstroom
+    # icon: hero/currency-dollar
     summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Top achievement in third year Urban Anthropology course.
+  - title: Best Academic Achievement
+    # url: https://www.nsf.gov/
+    date: '2017-11-15'
+    awarder: NWU Potchefstroom
+    # icon: hero/currency-dollar
+    summary: |
+      Top achievement in third year Medical Anthropology course.
+  - title: Member of Golden Key Honour Society 
+    # url: https://www.stanford.edu/
+    date: '2016-06-30'
+    awarder: NWU Potchefstroom
+    # icon: hero/academic-cap
+    summary: |
+      Recognised for ranking in the top 15% of sophomores.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+Lize Alberts is an Assistant Professor of AI and Behaviour. Her research falls at the intersection of AI, interaction design, ethics, and social and behavioural psychology <a href="https://www.w3schools.com/html/html_links.asp">link text</a>
+
+Through critical engagement with developing AI and interaction design paradigms, her work aims to steer research trajectories such that technologies treat people respectfully – supporting their autonomy and capacities to thrive, whilst minimising technological dependence. I am also interested more broadly in responsible innovation (RI) approaches for promoting diversity, equality, and sustainability.
+
+Her background spans computer science, the humanities and the social sciences, focusing on HCI, LLM evaluation & alignment, behaviour change, computational linguistics, and philosophy of cognition.
+
+Lize Alberts is an Assistant Professor of AI and Behaviour. Her research falls at the intersection of AI, interaction design, ethics, and social and behavioural psychology.
+
+Through critical engagement with developing AI and interaction design paradigms, her work aims to steer research trajectories such that technologies treat people respectfully – supporting their autonomy and capacities to thrive, whilst minimising technological dependence. I am also interested more broadly in responsible innovation (RI) approaches for promoting diversity, equality, and sustainability.
+
+Her background spans computer science, the humanities and the social sciences, focusing on HCI, LLM evaluation & alignment, behaviour change, computational linguistics, and philosophy of cognition.
