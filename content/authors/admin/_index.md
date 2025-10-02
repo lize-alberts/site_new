@@ -12,9 +12,9 @@ last_name: Alberts
 # # Pronouns (optional)
 # pronouns: 
 
-# # Status emoji
-# status:
-#   icon: 🚀
+# Status emoji
+status:
+  icon: ☕
 
 # Is this the primary user of the site?
 superuser: true
@@ -69,9 +69,9 @@ education:
       Part completed as Student Researcher at Google.
     url: /#detailed-ed
     button:
-      text: 'See PhD Thesis'
+      text: 'See DPhil Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MA Philosophy | Cognitive & Computational Linguistics
+  - area: MA Philosophy | Computational & Cognitive Linguistics
     institution: Stellenbosch University
     date_start: 2020-01-14
     date_end: 2020-11-15
@@ -88,7 +88,7 @@ education:
     date_start: 2009-09-01
     date_end: 2019-03-15
     summary: |
-      Dissertation on computational linguistics published in peer-reviewed journal. Grade: 88%
+      Dissertation critically comparing natural vs constructed language for human-computer communication published in peer-reviewed journal. Grade: 88%
 
       Courses: Probability and Rationality, Nietzsche, Philosophical Issues of the Physical Sciences, Philosophy of Language. 
       Graduated Cum Laude (82%)
