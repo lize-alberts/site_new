@@ -1,27 +1,48 @@
 ---
 title: Benchmarking Personalised Alignment of Conversational Agents
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
+summary: Developed benchmark and pipeline to evaluate large language models' ability to attend to and appropriately handle user-specific safety-critical context in recommendations. 
 date: 2025-10-01
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 
-authors:
-  - admin
-  - Ted
+# authors:
+#   - admin
+#   - Ted
 
-tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
+# tags:
+#   - Academic
+#   - Hugo Blox
+#   - Markdown
 
-content_meta:
-  trending: true
+# content_meta:
+#   trending: true
 ---
 
-Welcome 👋
+Developed benchmark and pipeline to evaluate large language models' ability to attend to and appropriately handle user-specific safety-critical context in recommendations. This project was completed as a part of my DPhil at the University of Oxford, in collaboration with <a href = 'https://foersterlab.com/' target = '_blank'>Foerster Lab for AI Research (FLAIR)</a> in Oxford's Department of Engineering Science.
+
+## Timeline
+
+Aug 2024 - Nov 2024
+
+## Collaborators
+<ul>
+  <!-- <li><b>Lize Alberts</b>, Human-Centred AI, Dept. Computer Science, University of Oxford</li> -->
+  <li><a href = 'https://research.vu.nl/en/persons/marcos-oliveira' target = '_blank'>Benjamin Ellis</a>, FLAIR, Dept. Engineering Science, University of Oxford</li>
+  <li><a href = 'https://research.vu.nl/en/persons/marcos-oliveira' target = '_blank'>Andrei Lupu</a>, FLAIR, Dept. Engineering Science, University of Oxford</li>
+  <li><a href = 'https://research.vu.nl/en/persons/marcos-oliveira' target = '_blank'>Prof. Jakob Foerster</a>, FLAIR, Dept. Engineering Science, University of Oxford</li>
+</ul>
+
+
+## Project Summary
+
+<!-- give context, why, how it relates to other work, future work, reference paper, talk about how it relates to current work -->
+
+We introduce a multi-turn benchmark for evaluating personalised alignment in LLM-based AI assistants, focusing on their ability to handle user-provided safety-critical contexts. Our assessment of ten leading models across five scenarios (with 337 use cases each) reveals systematic inconsistencies in maintaining user-specific consideration, with even top-rated "harmless" models making recommendations that should be recognised as obviously harmful to the user given the context provided. Key failure modes include inappropriate weighing of conflicting preferences, sycophancy (prioritising desires above safety), a lack of attentiveness to critical user information within the context window, and inconsistent application of user-specific knowledge. The same systematic biases were observed in OpenAI's o1, suggesting that strong reasoning capacities do not necessarily transfer to this kind of personalised thinking. We find that prompting LLMs to consider safety-critical context significantly improves performance, unlike a generic 'harmless and helpful' instruction. Based on these findings, we propose research directions for embedding self-reflection capabilities, online user modelling, and dynamic risk assessment in AI assistants. Our work emphasises the need for nuanced, context-aware approaches to alignment in systems designed for persistent human interaction, aiding the development of safe and considerate AI assistants.
+
+<!-- Welcome 👋
 
 {{< toc mobile_only=true is_open=true >}}
 
@@ -98,4 +119,4 @@ Hugo Blox and its templates come with **automatic day (light) and night (dark) m
 
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
+Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license. -->

@@ -9,19 +9,19 @@ main:
     weight: 10
   - name: Projects
     url: /#projs
-    weight: 12
+    weight: 13
   - name: Papers
     url: /#pub
-    weight: 11
+    weight: 12
   - name: Background
     url: /#detailed-ed
-    weight: 14
+    weight: 15
   - name: Mission
     url: /#vision
-    weight: 13
+    weight: 11
   - name: Talks
     url: /#talks
-    weight: 15
+    weight: 14
   - name: Hobbies
     url: /#hobbies
     weight: 16

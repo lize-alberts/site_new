@@ -21,7 +21,7 @@ sections:
       headings:
         about: 'Overview'
         education: 'Education'
-        interests: ''
+        interests: 'Topics'
     design:
       # Apply a gradient background
       # css_class: hbx-bg-gradient
@@ -29,6 +29,23 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+  - block: markdown 
+    id: vision
+    content:
+      title: 'Mission Statement'
+      subtitle: ''
+      text: |-
+        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+
+        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+
+        <ul>
+          <li>Coffee</li>
+          <li>Tea</li>
+          <li>Milk</li>
+        </ul>
+    design:
+      columns: '1' 
   - block: collection
     id: pub
     content:
@@ -66,23 +83,6 @@ sections:
     design:
       view: article-grid
       columns: 3
-  - block: markdown 
-    id: vision
-    content:
-      title: 'Mission Statement'
-      subtitle: ''
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        <ul>
-          <li>Coffee</li>
-          <li>Tea</li>
-          <li>Milk</li>
-        </ul>
-    design:
-      columns: '1' 
 
   # - block: collection
   #   id: papers
@@ -97,6 +97,16 @@ sections:
   #     columns: 3  
 
   # - block: resume-skills
+  - block: collection
+    id: talks
+    content:
+      title: Talks & Courses
+      filters:
+        folders:
+          - events
+    design:
+      view: article-grid
+      columns: 1
   - block: resume-experience
     id: detailed-ed
     content:
@@ -120,16 +130,6 @@ sections:
   #   content:
   #     title: Languages
   #     username: admin
-  - block: collection
-    id: talks
-    content:
-      title: Recent Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: article-grid
-      columns: 2
   - block: markdown 
     id: hobbies
     content:

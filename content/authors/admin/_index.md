@@ -71,27 +71,28 @@ education:
     button:
       text: 'See DPhil Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MA Philosophy | focus Comp. & Cognitive Linguistics
+  - area: MA Philosophy | focus Computational & Cognitive Linguistics
     institution: Stellenbosch University
     date_start: 2020-01-14
     date_end: 2020-11-15
     summary: |
-      Thesis on grounded language learning and the nature of language understanding in AI. Combines research in NLU, philosophy, and cognitive & computational linguistics to assess limitations and opportunities.
-
-      Interdisciplinary research thesis (140 pages). Grade: 84%
+      Interdisciplinary research thesis (140 pages) on grounded language learning and the nature of language understanding in AI. Combines research in NLU, philosophy, and cognitive & computational linguistics to assess limitations and opportunities.
+      
+      Graduated with distinction.
     url: /#detailed-ed
     button:
       text: 'See Masters Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: BA Hons Philosophy | focus Comp. Linguistics
+  - area: BA Hons Philosophy | focus Computational Linguistics
     institution: Stellenbosch University, University of Bristol
     date_start: 2009-09-01
     date_end: 2019-03-15
     summary: |
-      Dissertation critically comparing natural vs constructed language for human-computer communication published in peer-reviewed journal. Grade: 88%
+      Dissertation critically comparing natural vs constructed language for human-computer communication published in peer-reviewed journal.
 
       Courses: Probability and Rationality, Nietzsche, Philosophical Issues of the Physical Sciences, Philosophy of Language. 
-      Graduated Cum Laude (82%)
+      
+      Graduated with distinction.
     url: /#detailed-ed
     button:
       text: 'See Hons Dissertation'
@@ -101,9 +102,9 @@ education:
     date_start: 2015-01-13
     date_end: 2018-03-15
     summary: |
-      Completed credits for two degrees: Philosophy and the Social Sciences; Art History and English Linguistics. 
+      Simultaneously studied two degrees: Philosophy & the Social Sciences; History of Art & English. 
 
-      Graduated with distinction (82%). Received merits for top course achievements (Urban Anthropology, Medical Anthropology) and top overall achievement in Philosophy.
+      Graduated with distinction. Received merits specific courses (Urban Anthropology, Medical Anthropology) and top overall achievement in Philosophy.
     url: /#detailed-ed
     # button:
     #   text: 'Read Thesis'
@@ -170,37 +171,37 @@ education:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: cfi
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
-        description: ''
-        percent: 85
-        icon: cloud
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking in the Rockies
-        description: ''
-        percent: 80
-        icon: person-simple-walk
-      - name: Building Custom PCs
-        description: ''
-        percent: 90
-        icon: cpu-chip
-      - name: Sci-Fi Reading
-        description: ''
-        percent: 70
-#         icon: book-open
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python & PyTorch
+#         description: ''
+#         percent: 95
+#         icon: cfi
+#       - name: Machine Learning
+#         description: ''
+#         percent: 100
+#         icon: chart-bar
+#       - name: Cloud Computing (AWS/GCP)
+#         description: ''
+#         percent: 85
+#         icon: cloud
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Hiking in the Rockies
+#         description: ''
+#         percent: 80
+#         icon: person-simple-walk
+#       - name: Building Custom PCs
+#         description: ''
+#         percent: 90
+#         icon: cpu-chip
+#       - name: Sci-Fi Reading
+#         description: ''
+#         percent: 70
+# #         icon: book-open
 
 # languages:
 #   - name: English
