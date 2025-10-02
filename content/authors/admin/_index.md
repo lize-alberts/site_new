@@ -27,7 +27,8 @@ role: Assistant Professor AI & Behaviour
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Vrije Universiteit Amsterdam
+  - name: Vrije Universiteit Amsterdam 
+  # (formerly University of Oxford, Google Research, Leverhulme Centre of the Future of Intelligence, University of Cambridge)
     url: https://research.vu.nl/en/persons/lize-alberts
   # - name: Stellenbosch University
   #   url: https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/ 

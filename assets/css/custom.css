@@ -168,3 +168,25 @@ body, h1, h2, h3, h4, h5, h6 {
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
 }
+
+/* Disable hover effects on education/experience cards */
+.group:hover{
+  box-shadow: none !important;
+  border-color: transparent !important;
+  background: none !important;
+}
+
+
+.shadow-md {
+    box-shadow: none;
+}
+
+.inline-block:hover {
+  background-color: var(--color-primary-50) !important;
+  /* background-color: inherit !important; /*to make white instead
+}
+
+
+.group:hover * {
+  color: inherit !important;
+}
