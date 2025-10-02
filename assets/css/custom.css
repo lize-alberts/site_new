@@ -79,8 +79,13 @@ h1, h2, h3, h4, h5, h6,
   letter-spacing: -0.02em;
 }
 
-
-
+.prose {
+    :where(a):not(:where([class~="not-prose"],[class~="not-prose"] *)) {
+        color: var(--color-primary-600);
+        text-decoration: underline;
+        font-weight: 500;
+    }
+}
 /* Refined heading weights */
 h1 {
   font-weight: 600;

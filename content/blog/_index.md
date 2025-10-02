@@ -1,4 +1,4 @@
 ---
-title: Projects & Affiliations
+title: Projects
 view: article-grid
 ---

@@ -19,8 +19,8 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
       headings:
-        about: 'Bio'
-        education: ''
+        about: 'Overview'
+        education: 'Education'
         interests: ''
     design:
       # Apply a gradient background
@@ -30,9 +30,20 @@ sections:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
   - block: collection
+    id: pub
+    content:
+      title: Recent Papers
+      text: ''
+      filters:
+        folders:
+          - publications
+        exclude_featured: false
+    design:
+      view: citation
+  - block: collection
     id: projs
     content:
-      title: Projects & Affiliations
+      title: Projects
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -58,7 +69,7 @@ sections:
   - block: markdown 
     id: vision
     content:
-      title: 'Mission'
+      title: 'Mission Statement'
       subtitle: ''
       text: |-
         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
@@ -84,17 +95,7 @@ sections:
   #   design:
   #     view: article-grid
   #     columns: 3  
-  - block: collection
-    id: pub
-    content:
-      title: Recent Papers
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
+
   # - block: resume-skills
   - block: resume-experience
     id: detailed-ed
@@ -129,6 +130,21 @@ sections:
     design:
       view: article-grid
       columns: 2
+  - block: markdown 
+    id: hobbies
+    content:
+      title: 'Hobbies & Personal Life'
+      subtitle: ''
+      text: |-
+        I am 
+
+        <ul>
+          <li>Coffee</li>
+          <li>Tea</li>
+          <li>Milk</li>
+        </ul>
+    design:
+      columns: '1' 
 
   # # - block: cta-card
   #   demo: true # Only display this section in the Hugo Blox Builder demo site

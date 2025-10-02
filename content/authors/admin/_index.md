@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Assistant Professor AI & Behaviour
+role: Assistant Professor | AI & Behaviour
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -59,7 +59,7 @@ interests:
   - Philosophy of Language & Cognition
 
 education:
-  - area: DPhil Computer Science | Human-Agent Interaction
+  - area: DPhil Computer Science | focus Human-Agent Interaction
     institution: University of Oxford, Google Research
     date_start: 2020-09-01
     date_end: 2025-01-01
@@ -71,7 +71,7 @@ education:
     button:
       text: 'See DPhil Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MA Philosophy | Computational & Cognitive Linguistics
+  - area: MA Philosophy | focus Comp. & Cognitive Linguistics
     institution: Stellenbosch University
     date_start: 2020-01-14
     date_end: 2020-11-15
@@ -83,7 +83,7 @@ education:
     button:
       text: 'See Masters Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: BA Hons Philosophy | Computational Linguistics
+  - area: BA Hons Philosophy | focus Comp. Linguistics
     institution: Stellenbosch University, University of Bristol
     date_start: 2009-09-01
     date_end: 2019-03-15
@@ -250,6 +250,19 @@ awards:
       Recognised for ranking in the top 15% of sophomores.
 ---
 
+I am an Assistant Professor of Computer Science at VU Amsterdam, working in the <a href="https://ai-behaviour.nl/">AI & Behaviour</a> group. We aim to . I am also affiliated with Hybrid intelligence and network institute, as well as research fellow at Unit and associate editor of AI & SOciety Bookseries by CUP. 
+
+I completed my DPhil at Oxford on X . During worked as student researcher at google on X. Also worked assistant editor at LEverhulme, led masterclasses for RI, gradauate assessor for ellison, and president of computing society. 
+
+I have presented at Google, Cambridge, Princeton, and published in top venues across several disciplines including HCI, AI ethics, and linguistics. 
+
+In my current capacity as AP I am developing course on modelling human behaviour and research design. Aim is to sync disciplines 
+
+owes to my unique interdiscp background spanning computer science, the humanities and the social sciences, focusing on HCI, LLM evaluation & alignment, behaviour change, computational linguistics, and philosophy of cognition.
+
+More information about my background, projects, academic mission, and hobbies can be found below. 
+
+<!-- 
 Lize Alberts is an Assistant Professor of AI and Behaviour. Her research falls at the intersection of AI, interaction design, ethics, and social and behavioural psychology <a href="https://www.w3schools.com/html/html_links.asp">link text</a>
 
 Through critical engagement with developing AI and interaction design paradigms, her work aims to steer research trajectories such that technologies treat people respectfully – supporting their autonomy and capacities to thrive, whilst minimising technological dependence. I am also interested more broadly in responsible innovation (RI) approaches for promoting diversity, equality, and sustainability.
@@ -260,4 +273,4 @@ Lize Alberts is an Assistant Professor of AI and Behaviour. Her research falls a
 
 Through critical engagement with developing AI and interaction design paradigms, her work aims to steer research trajectories such that technologies treat people respectfully – supporting their autonomy and capacities to thrive, whilst minimising technological dependence. I am also interested more broadly in responsible innovation (RI) approaches for promoting diversity, equality, and sustainability.
 
-Her background spans computer science, the humanities and the social sciences, focusing on HCI, LLM evaluation & alignment, behaviour change, computational linguistics, and philosophy of cognition.
+Her background spans computer science, the humanities and the social sciences, focusing on HCI, LLM evaluation & alignment, behaviour change, computational linguistics, and philosophy of cognition. -->

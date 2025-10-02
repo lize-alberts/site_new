@@ -12,19 +12,19 @@ main:
     weight: 12
   - name: Papers
     url: /#pub
-    weight: 13
+    weight: 11
   - name: Background
     url: /#detailed-ed
     weight: 14
   - name: Mission
     url: /#vision
-    weight: 12
+    weight: 13
   - name: Talks
     url: /#talks
     weight: 15
-  # - name: News
-  #   url: /#news
-  #   weight: 13
+  - name: Hobbies
+    url: /#hobbies
+    weight: 16
 
   # - name: Courses
   #   url: courses/
