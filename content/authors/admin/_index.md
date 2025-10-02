@@ -27,7 +27,7 @@ role: Assistant Professor AI & Behaviour
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: VU Amsterdam
+  - name: Vrije Universiteit Amsterdam
     url: https://research.vu.nl/en/persons/lize-alberts
   # - name: Stellenbosch University
   #   url: https://www0.sun.ac.za/philosophy/centre-for-applied-ethics/unit-for-the-ethics-of-technology/unit-for-the-ethics-of-technology-staff-2/ 
@@ -68,7 +68,7 @@ education:
       Part completed as Student Researcher at Google.
     url: /#detailed-ed
     button:
-      text: 'PhD Thesis'
+      text: 'See PhD Thesis'
       url: 'https://example.com/thesis.pdf'
   - area: MA Philosophy | Cognitive & Computational Linguistics
     institution: Stellenbosch University
@@ -80,7 +80,7 @@ education:
       Interdisciplinary research thesis (140 pages). Grade: 84%
     url: /#detailed-ed
     button:
-      text: 'Masters Thesis'
+      text: 'See Masters Thesis'
       url: 'https://example.com/thesis.pdf'
   - area: BA Hons Philosophy | Computational Linguistics
     institution: Stellenbosch University, University of Bristol
@@ -93,7 +93,7 @@ education:
       Graduated Cum Laude (82%)
     url: /#detailed-ed
     button:
-      text: 'Hons Dissertation'
+      text: 'See Hons Dissertation'
       url: 'https://example.com/thesis.pdf'
   - area: BA Humanities
     institution: NWU Potchefstroom

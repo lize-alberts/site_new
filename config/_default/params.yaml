@@ -36,6 +36,10 @@ header:
     show_theme_chooser: true
     logo:
       text: 'dr. Lize Alberts'
+      filename: logo.png
+
+
+
 
 # Site footer
 footer:
@@ -58,3 +62,7 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+
+css:
+  - css/custom.css
