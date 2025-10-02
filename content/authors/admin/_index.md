@@ -71,24 +71,24 @@ education:
     button:
       text: 'See DPhil Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MA Philosophy | focus Computational & Cognitive Linguistics
+  - area: MA Philosophy | focus Cognitive, Computational Linguistics
     institution: Stellenbosch University
     date_start: 2020-01-14
     date_end: 2020-11-15
     summary: |
-      Interdisciplinary research thesis (140 pages) on grounded language learning and the nature of language understanding in AI. Combines research in NLU, philosophy, and cognitive & computational linguistics to assess limitations and opportunities.
+      Interdisciplinary research thesis (140 pages) on grounded language learning and the nature of language understanding in AI. Combines research in NLU, philosophy, cognitive linguistics, and computational linguistics to assess limitations and opportunities.
       
       Graduated with distinction.
     url: /#detailed-ed
     button:
       text: 'See Masters Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: BA Hons Philosophy | focus Computational Linguistics
+  - area: BA Hons Philosophy
     institution: Stellenbosch University, University of Bristol
     date_start: 2009-09-01
     date_end: 2019-03-15
     summary: |
-      Dissertation critically comparing natural vs constructed language for human-computer communication published in peer-reviewed journal.
+      Dissertation on computational linguistics critically compares natural vs constructed language for human-AI communication. Published in peer-reviewed journal.
 
       Courses: Probability and Rationality, Nietzsche, Philosophical Issues of the Physical Sciences, Philosophy of Language. 
       

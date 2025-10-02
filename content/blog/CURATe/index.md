@@ -1,5 +1,5 @@
 ---
-title: Benchmarking Personalised Alignment of Conversational Agents
+title: Benchmarking Personalised LLM Agent Alignment
 summary: Developed benchmark and pipeline to evaluate large language models' ability to attend to and appropriately handle user-specific safety-critical context in recommendations. 
 date: 2025-10-01
 

@@ -1,4 +1,4 @@
 ---
 title: Projects
-view: landing
+view: article-grid
 ---

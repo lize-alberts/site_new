@@ -1,22 +1,31 @@
 ---
-title: 📈 Communicate your results effectively with the best data visualizations
-summary: Use popular tools such as HuggingFace, Plotly, Mermaid, and data frames.
-date: 2023-10-25
-authors:
-  - admin
+title: Behaviour Change Support with KG-Enhanced LLMs
+summary: Investigating the effect of integrating a knowledge graph (KG) as user 'mental model' into a large language model (LLM) based dialogue agent for personalised behaviour change support. 
+date: 2025-10-02
+# authors:
+#   - admin
 tags:
-  - Hugo
-  - Hugo Blox
-  - Markdown
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  - Current
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
+Investigating the effect of integrating a knowledge graph as user 'mental model' into a large language model (LLM) based dialogue agent for personalised behaviour change support. This project is funded by the 20 million Euro Hybrid Intelligence grant.
 
-Use popular tools such as Plotly, Mermaid, and data frames.
+## Timeline
 
-## Embed Rich Content
+Sept 2025 - Sept 2029
+
+## Collaborators
+<ul>
+  <!-- <li><b>Dr. Lize Alberts</b>, AI & Behaviour, Dept. Computer Science, VU Amsterdam</li> -->
+  <li><a href = 'https://research.vu.nl/en/persons/marcos-oliveira' target = '_blank'>Dr. Charlotte Gerritsen</a>, AI & Behaviour, Dept. Computer Science, VU Amsterdam</li>
+  <li><a href = 'https://research.vu.nl/en/persons/tim-groot-kormelink' target = '_blank'>Dr. Catharine Oertel Bierbacht</a>, Dept. Computer Science, TU Delft</li>
+  <li>Ilke Asal, AI & Behaviour, Dept. Computer Science, VU Amsterdam</li>
+</ul>
+
+<!-- 
+## Project Summary
 
 HuggingFace Model
 
@@ -60,115 +69,10 @@ You might also find the [Plotly JSON Editor](http://plotly-json-editor.getforge.
 
 Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
 
-An example **flowchart**:
-
-    ```mermaid
-    graph TD
-    A[Hard] -->|Text| B(Round)
-    B --> C{Decision}
-    C -->|One| D[Result 1]
-    C -->|Two| E[Result 2]
-    ```
-
 renders as
 
-```mermaid
-graph TD
-A[Hard] -->|Text| B(Round)
-B --> C{Decision}
-C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
-```
 
-An example **sequence diagram**:
 
-    ```mermaid
-    sequenceDiagram
-    Alice->>John: Hello John, how are you?
-    loop Healthcheck
-        John->>John: Fight against hypochondria
-    end
-    Note right of John: Rational thoughts!
-    John-->>Alice: Great!
-    John->>Bob: How about you?
-    Bob-->>John: Jolly good!
-    ```
-
-renders as
-
-```mermaid
-sequenceDiagram
-Alice->>John: Hello John, how are you?
-loop Healthcheck
-    John->>John: Fight against hypochondria
-end
-Note right of John: Rational thoughts!
-John-->>Alice: Great!
-John->>Bob: How about you?
-Bob-->>John: Jolly good!
-```
-
-An example **class diagram**:
-
-    ```mermaid
-    classDiagram
-    Class01 <|-- AveryLongClass : Cool
-    Class03 *-- Class04
-    Class05 o-- Class06
-    Class07 .. Class08
-    Class09 --> C2 : Where am i?
-    Class09 --* C3
-    Class09 --|> Class07
-    Class07 : equals()
-    Class07 : Object[] elementData
-    Class01 : size()
-    Class01 : int chimp
-    Class01 : int gorilla
-    Class08 <--> C2: Cool label
-    ```
-
-renders as
-
-```mermaid
-classDiagram
-Class01 <|-- AveryLongClass : Cool
-Class03 *-- Class04
-Class05 o-- Class06
-Class07 .. Class08
-Class09 --> C2 : Where am i?
-Class09 --* C3
-Class09 --|> Class07
-Class07 : equals()
-Class07 : Object[] elementData
-Class01 : size()
-Class01 : int chimp
-Class01 : int gorilla
-Class08 <--> C2: Cool label
-```
-
-An example **state diagram**:
-
-    ```mermaid
-    stateDiagram
-    [*] --> Still
-    Still --> [*]
-    Still --> Moving
-    Moving --> Still
-    Moving --> Crash
-    Crash --> [*]
-    ```
-
-renders as
-
-```mermaid
-stateDiagram
-[*] --> Still
-Still --> [*]
-Still --> Moving
-Moving --> Still
-Moving --> Crash
-Crash --> [*]
-```
 
 ## Data Frames
 
@@ -234,4 +138,4 @@ Add engaging call-to-action buttons to your data visualization posts:
 {{</* button url="https://colab.research.google.com/" new_tab="true" style="primary" rounded="full" align="center" icon="rocket-launch" */>}}Open in Colab{{</* /button */>}}
 ```
 
-## Did you find this page helpful? Consider sharing it 🙌
+## Did you find this page helpful? Consider sharing it 🙌 -->
