@@ -1,33 +1,43 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
+title: Autonomy in the Attention Economy
 summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
+date: 2025-10-02
 authors:
-  - admin
+  # - admin
 tags:
-  - Second Brain
-  - Markdown
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  - Project
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Create a personal knowledge base and share your knowledge with your peers.
+## Project Summary
 
-Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.
+Digital platforms have reshaped how we spend our time and attention. Although technologies increasingly mediate all aspects of human life, there are often subtle but significant misalignments between what users want, what algorithms can infer about users and their needs, and what platforms are designed to promote. These misalignments undermine users’ autonomy over their behaviour, profoundly affecting their well-being and sense of identity over time.
 
-Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.
+How do such misalignments emerge? To what extent do algorithms accurately
+represent who users are—or who they want to be? Despite growing awareness of the psychological and social impacts of digital media, we still don’t understand how these mismatches arise or how to quantify them.
 
-Use it as your second brain, either publicly sharing your knowledge with your peers via your website, or via a private GitHub repository and password-protected site just for yourself.
+To tackle these questions, our project aims to uncover mechanisms driving three fundamental misalignments: (i) how users intend to spend their time versus how they actually spend it, (ii) how users believe they spend their time versus their actual usage patterns, and (iii) how users perceive their interests and identity versus how algorithms construct them.
 
-## Mindmaps
+We will recruit adult smartphone users for a three-month study. Participants will log their intentions and reflect weekly on their long-term goals. In parallel, participants will donate their digital trace data (app usage, video viewing patterns, etc.) via the Digital Data Donation Infrastructure (D3I). By combining subjective reflection and individual-level digital behavioral data, we will make quantitative as well as qualitative comparisons between users’ stated goals and preferences, and their actual digital behavior.
 
-Hugo Blox supports a Markdown extension for mindmaps.
 
-With this open format, can even edit your mindmaps in other popular tools such as Obsidian.
+## Collaborators
 
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
+### Supervisors: 
 
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
+<ul>
+  <li><b>Lize Alberts</b>, Dept. Computer Science, VU Amsterdam</li>
+  <li>Marcos Oliveira, Dept. Computer Science, VU Amsterdam</li>
+  <li>Tim Groot Kormerlink, Dept. Journalism Studies, VU Amsterdam</li>
+</ul>
+
+
+### Academic Assistants:
+
+tba
+
+
 
 <div class="highlight">
 <pre class="chroma">
@@ -110,7 +120,7 @@ renders as
 ```html
 <mark>Highlighted text</mark>
 ```
-
+<!-- 
 ## Callouts
 
 Use [callouts](https://docs.hugoblox.com/reference/markdown/#callouts) (aka _asides_, _hints_, or _alerts_) to draw attention to notes, tips, and warnings.
@@ -132,4 +142,4 @@ Or use the `warning` callout type so your readers don't miss critical details:
 > [!WARNING]
 > A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
 
-## Did you find this page helpful? Consider sharing it 🙌
+## Did you find this page helpful? Consider sharing it 🙌 -->

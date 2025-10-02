@@ -59,7 +59,7 @@ interests:
   - Philosophy of Language & Cognition
 
 education:
-  - area: DPhil Computer Science | Human-Centred AI
+  - area: DPhil Computer Science | Human-Agent Interaction
     institution: University of Oxford, Google Research
     date_start: 2020-09-01
     date_end: 2025-01-01
