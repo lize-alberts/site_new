@@ -14,7 +14,7 @@ last_name: Alberts
 
 # Status emoji
 status:
-  icon: ☕
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,11 +23,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Assistant Professor | AI & Behaviour
+role: Assistant Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Vrije Universiteit Amsterdam 
+  - name: AI & Behaviour, Computer Science, VU Amsterdam 
   # (formerly University of Oxford, Google Research, Leverhulme Centre of the Future of Intelligence, University of Cambridge)
     url: https://research.vu.nl/en/persons/lize-alberts
   # - name: Stellenbosch University
@@ -52,15 +52,15 @@ profiles:
 
 interests:
   - Human-Centred AI
-  - Applied Behavioural Psychology
-  - LLM Eval & Alignment
-  - Ethics of Human-Agent Interaction
+  - Behavioural Design & Psychology
+  - Human-Agent Interaction Ethics
+  - LLM Evaluation & Alignment
   - Computational Linguistics
   - Philosophy of Language & Cognition
 
 education:
-  - area: DPhil Computer Science | focus Human-Agent Interaction
-    institution: University of Oxford, Google Research
+  - area: D.Phil. Computer Science 
+    institution: University of Oxford
     date_start: 2020-09-01
     date_end: 2025-01-01
     summary: |
@@ -71,7 +71,7 @@ education:
     button:
       text: 'See DPhil Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MA Philosophy | focus Cognitive, Computational Linguistics
+  - area: M.A. Philosophy | Cognitive & Computational Linguistics
     institution: Stellenbosch University
     date_start: 2020-01-14
     date_end: 2020-11-15
@@ -83,7 +83,7 @@ education:
     button:
       text: 'See Masters Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: BA Hons Philosophy
+  - area: B.A. Hons. Philosophy
     institution: Stellenbosch University, University of Bristol
     date_start: 2009-09-01
     date_end: 2019-03-15
@@ -97,12 +97,12 @@ education:
     button:
       text: 'See Hons Dissertation'
       url: 'https://example.com/thesis.pdf'
-  - area: BA Humanities
+  - area: B.A. Humanities
     institution: NWU Potchefstroom
     date_start: 2015-01-13
     date_end: 2018-03-15
     summary: |
-      Simultaneously studied two degrees: Philosophy & the Social Sciences; History of Art & English. 
+      Studied two degrees simultaneously: Philosophy & the Social Sciences; History of Art & English. 
 
       Graduated with distinction. Received merits specific courses (Urban Anthropology, Medical Anthropology) and top overall achievement in Philosophy.
     url: /#detailed-ed
@@ -251,27 +251,13 @@ awards:
       Recognised for ranking in the top 15% of sophomores.
 ---
 
-I am an Assistant Professor of Computer Science at VU Amsterdam, working in the <a href="https://ai-behaviour.nl/">AI & Behaviour</a> group. We aim to . I am also affiliated with Hybrid intelligence and network institute, as well as research fellow at Unit and associate editor of AI & SOciety Bookseries by CUP. 
+I am an assistant professor at the Vrije Universiteit Amsterdam, working in the <a href="https://ai-behaviour.nl/">AI & Behaviour</a> group in the Department of Computer Science. We work towards developing AI-based tools and techniques to analyse, predict, and support human behaviour and flourishing, combining interdisciplinary theory and methods to support individual empowerment and respect societal values. In this capacity, I'm affiliated with the Netherlands' [Hybrid Intelligence Centre](https://www.hybrid-intelligence-centre.nl/), supervising PhD research on personalising LLM dialogue agents for sustained individual behavioural support. I'm also a research associate at the [Unit for the Ethics of Technology](https://www.su.ac.za/en/faculty/arts/centre-for-applied-ethics/technology-ethics/unit-ethics-technology-people) at Stellenbosch University, and an associate editor of the upcoming [Cambridge University Press (CUP) bookseries on AI Ethics & Society](https://www.cambridge.org/core/publications/elements/elements-in-ai-ethics-and-society). 
 
-I completed my DPhil at Oxford on X . During worked as student researcher at google on X. Also worked assistant editor at LEverhulme, led masterclasses for RI, gradauate assessor for ellison, and president of computing society. 
+My educational background spans human-centered AI, computational linguistics, HCI, behavioural psychology, software engineering, philosophy, social anthropology, and cognitive science. I have worked at Google as a student researcher on [contextualising the alignment of social AI agents](https://arxiv.org/abs/2401.09082), sparking a growing area of research that has since been termed [socioaffective alignment](https://www.nature.com/articles/s41599-025-04532-5). 
 
-I have presented at Google, Cambridge, Princeton, and published in top venues across several disciplines including HCI, AI ethics, and linguistics. 
+I obtained my doctorate at the University of Oxford, focusing on [the ethics of human-AI social interaction](https://ora.ox.ac.uk/objects/uuid:f87bbd90-408f-4470-bd75-c94e73650026). My master's thesis focused on supporting [multi-modal grounded language learning in AI](https://arxiv.org/pdf/2206.14672), drawing from 4E/embodied cognition theories in cognitive science. 
 
-In my current capacity as AP I am developing course on modelling human behaviour and research design. Aim is to sync disciplines 
+I have published in several top-rated journals, collaborating with industry as well as universities from across the world. I've presented my work at Google, Cambridge, and Princeton University, and led a masterclass on Dark Patterns for the Royal Institute in London. 
 
-owes to my unique interdiscp background spanning computer science, the humanities and the social sciences, focusing on HCI, LLM evaluation & alignment, behaviour change, computational linguistics, and philosophy of cognition.
+More information about my projects and mission can be found on my CV and below. 
 
-More information about my background, projects, academic mission, and hobbies can be found below. 
-
-<!-- 
-Lize Alberts is an Assistant Professor of AI and Behaviour. Her research falls at the intersection of AI, interaction design, ethics, and social and behavioural psychology <a href="https://www.w3schools.com/html/html_links.asp">link text</a>
-
-Through critical engagement with developing AI and interaction design paradigms, her work aims to steer research trajectories such that technologies treat people respectfully – supporting their autonomy and capacities to thrive, whilst minimising technological dependence. I am also interested more broadly in responsible innovation (RI) approaches for promoting diversity, equality, and sustainability.
-
-Her background spans computer science, the humanities and the social sciences, focusing on HCI, LLM evaluation & alignment, behaviour change, computational linguistics, and philosophy of cognition.
-
-Lize Alberts is an Assistant Professor of AI and Behaviour. Her research falls at the intersection of AI, interaction design, ethics, and social and behavioural psychology.
-
-Through critical engagement with developing AI and interaction design paradigms, her work aims to steer research trajectories such that technologies treat people respectfully – supporting their autonomy and capacities to thrive, whilst minimising technological dependence. I am also interested more broadly in responsible innovation (RI) approaches for promoting diversity, equality, and sustainability.
-
-Her background spans computer science, the humanities and the social sciences, focusing on HCI, LLM evaluation & alignment, behaviour change, computational linguistics, and philosophy of cognition. -->
