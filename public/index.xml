@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lize Alberts Personal Website</title>
-    <link>http://localhost:1313/lize-alberts/</link>
-      <atom:link href="http://localhost:1313/lize-alberts/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <description>Lize Alberts Personal Website</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/lize-alberts/media/logo_hu_eb199afa4ce2ac7e.png</url>
+      <url>http://localhost:1313/media/logo_hu_eb199afa4ce2ac7e.png</url>
       <title>Lize Alberts Personal Website</title>
-      <link>http://localhost:1313/lize-alberts/</link>
+      <link>http://localhost:1313/</link>
     </image>
     
     <item>
       <title>Getting Started</title>
-      <link>http://localhost:1313/lize-alberts/courses/hugo-blox/getting-started/</link>
+      <link>http://localhost:1313/courses/hugo-blox/getting-started/</link>
       <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lize-alberts/courses/hugo-blox/getting-started/</guid>
+      <guid>http://localhost:1313/courses/hugo-blox/getting-started/</guid>
       <description>&lt;h2 id=&#34;quick-start-from-template&#34;&gt;Quick Start from Template&lt;/h2&gt;
 &lt;div class=&#34;hb-steps&#34;&gt;
 &lt;h3 id=&#34;create-a-site&#34;&gt;Create a site&lt;/h3&gt;
@@ -65,9 +65,9 @@
     
     <item>
       <title>Customizing Hugo</title>
-      <link>http://localhost:1313/lize-alberts/courses/hugo-blox/reference/customization/</link>
+      <link>http://localhost:1313/courses/hugo-blox/reference/customization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lize-alberts/courses/hugo-blox/reference/customization/</guid>
+      <guid>http://localhost:1313/courses/hugo-blox/reference/customization/</guid>
       <description>&lt;p&gt;View the full docs at 
 &lt;/p&gt;
 </description>
@@ -75,9 +75,9 @@
     
     <item>
       <title>Project Structure</title>
-      <link>http://localhost:1313/lize-alberts/courses/hugo-blox/guide/project-structure/</link>
+      <link>http://localhost:1313/courses/hugo-blox/guide/project-structure/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lize-alberts/courses/hugo-blox/guide/project-structure/</guid>
+      <guid>http://localhost:1313/courses/hugo-blox/guide/project-structure/</guid>
       <description>&lt;h2 id=&#34;folder-structure&#34;&gt;Folder Structure&lt;/h2&gt;
 &lt;p&gt;There are &lt;strong&gt;4 main folders for Hugo-based sites&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
@@ -131,9 +131,9 @@
     
     <item>
       <title>Configuration</title>
-      <link>http://localhost:1313/lize-alberts/courses/hugo-blox/guide/configuration/</link>
+      <link>http://localhost:1313/courses/hugo-blox/guide/configuration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lize-alberts/courses/hugo-blox/guide/configuration/</guid>
+      <guid>http://localhost:1313/courses/hugo-blox/guide/configuration/</guid>
       <description>&lt;p&gt;The configuration of your site can be found in &lt;code&gt;config/_default/&lt;/code&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;full-documentation&#34;&gt;Full Documentation&lt;/h2&gt;
 &lt;p&gt;See 
@@ -170,9 +170,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>http://localhost:1313/lize-alberts/events/example/</link>
+      <link>http://localhost:1313/events/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lize-alberts/events/example/</guid>
+      <guid>http://localhost:1313/events/example/</guid>
       <description>
 
 
@@ -236,9 +236,9 @@
     
     <item>
       <title>Autonomy in the Attention Economy</title>
-      <link>http://localhost:1313/lize-alberts/blog/niaa/</link>
+      <link>http://localhost:1313/blog/niaa/</link>
       <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lize-alberts/blog/niaa/</guid>
+      <guid>http://localhost:1313/blog/niaa/</guid>
       <description>&lt;p&gt;Awarded &lt;a href = &#39;https://networkinstitute.org/funding/academy-assistants/&#39; target = &#39;_blank&#39;&gt;NIAA&lt;/a&gt; grant to investigate misalignments between user preferences regarding their online behaviour and the reality, and between users&amp;rsquo; self-perception vs how algorithms perceive them.&lt;/p&gt;
 &lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;
 &lt;p&gt;Oct 2025 - Apr 2026&lt;/p&gt;
@@ -366,9 +366,9 @@ Or use the `warning` callout type so your readers don&#39;t miss critical detail
     
     <item>
       <title>Behaviour Change Support with KG-Enhanced LLMs</title>
-      <link>http://localhost:1313/lize-alberts/blog/hi/</link>
+      <link>http://localhost:1313/blog/hi/</link>
       <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lize-alberts/blog/hi/</guid>
+      <guid>http://localhost:1313/blog/hi/</guid>
       <description>&lt;p&gt;Investigating the effect of integrating a knowledge graph as user &amp;lsquo;mental model&amp;rsquo; into a large language model (LLM) based dialogue agent for personalised behaviour change support. This project is funded by the 20 million Euro Hybrid Intelligence grant.&lt;/p&gt;
 &lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;
 &lt;p&gt;Sept 2025 - Sept 2029&lt;/p&gt;
@@ -651,9 +651,9 @@ Embed beautiful images from any source with Hugo image processing (Unsplash, cus
     &lt;div class=&#34;p-6 space-y-4&#34;&gt;
       &lt;div class=&#34;mb-4 overflow-hidden rounded-lg&#34;&gt;
     &lt;img class=&#34;w-full h-auto transition-transform duration-500 ease-out group-hover:scale-105&#34; 
-         srcset=&#34;http://localhost:1313/lize-alberts/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_7622c7a14eaf9d25.webp 400w, http://localhost:1313/lize-alberts/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_1a388d2557e09cec.webp 600w, http://localhost:1313/lize-alberts/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_ca07e4eb34b7fe37.webp 800w, http://localhost:1313/lize-alberts/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_2f14b1d24751bb0f.webp 800w&#34;
+         srcset=&#34;http://localhost:1313/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_7622c7a14eaf9d25.webp 400w, http://localhost:1313/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_1a388d2557e09cec.webp 600w, http://localhost:1313/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_ca07e4eb34b7fe37.webp 800w, http://localhost:1313/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_2f14b1d24751bb0f.webp 800w&#34;
          sizes=&#34;(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw&#34;
-         src=&#34;http://localhost:1313/lize-alberts/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_7622c7a14eaf9d25.webp&#34; 
+         src=&#34;http://localhost:1313/photo-1514888286974-6c03e2ca1dba_18145305924448453957_hu_7622c7a14eaf9d25.webp&#34; 
          width=&#34;400&#34; 
          height=&#34;300&#34;
          loading=&#34;lazy&#34; 
@@ -715,9 +715,9 @@ You can also add images to any platform embed:
     &lt;div class=&#34;p-6 space-y-4&#34;&gt;
       &lt;div class=&#34;mb-4 overflow-hidden rounded-lg&#34;&gt;
     &lt;img class=&#34;w-full h-auto transition-transform duration-500 ease-out group-hover:scale-105&#34; 
-         srcset=&#34;http://localhost:1313/lize-alberts/photo-1551288049-bebda4e38f71_10164962980614054447_hu_8ca8800e05622c8d.webp 400w, http://localhost:1313/lize-alberts/photo-1551288049-bebda4e38f71_10164962980614054447_hu_a4269df9626bdc82.webp 600w, http://localhost:1313/lize-alberts/photo-1551288049-bebda4e38f71_10164962980614054447_hu_43878f3c13a56a24.webp 600w&#34;
+         srcset=&#34;http://localhost:1313/photo-1551288049-bebda4e38f71_10164962980614054447_hu_8ca8800e05622c8d.webp 400w, http://localhost:1313/photo-1551288049-bebda4e38f71_10164962980614054447_hu_a4269df9626bdc82.webp 600w, http://localhost:1313/photo-1551288049-bebda4e38f71_10164962980614054447_hu_43878f3c13a56a24.webp 600w&#34;
          sizes=&#34;(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw&#34;
-         src=&#34;http://localhost:1313/lize-alberts/photo-1551288049-bebda4e38f71_10164962980614054447_hu_8ca8800e05622c8d.webp&#34; 
+         src=&#34;http://localhost:1313/photo-1551288049-bebda4e38f71_10164962980614054447_hu_8ca8800e05622c8d.webp&#34; 
          width=&#34;400&#34; 
          height=&#34;267&#34;
          loading=&#34;lazy&#34; 
@@ -761,7 +761,7 @@ Demo:
 
 
 
-&lt;div id=&#34;chart-846395127&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-438916572&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -779,7 +779,7 @@ Demo:
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-846395127&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-438916572&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -886,7 +886,7 @@ Add engaging call-to-action buttons to your data visualization posts:
 &lt;div class=&#34;text-left&#34;&gt;
   &lt;a
     id=&#34;button-ce489f7e66a51d0571c652d454563e97&#34;
-    href=&#34;http://localhost:1313/lize-alberts/&#34;
+    href=&#34;http://localhost:1313/&#34;
     
     
     
@@ -935,7 +935,7 @@ Add engaging call-to-action buttons to your data visualization posts:
 
 
 ```go-html-template
-{{&lt; button url=&#34;http://localhost:1313/lize-alberts/&#34; &gt;}}Contact Us{{&lt; /button &gt;}}
+{{&lt; button url=&#34;http://localhost:1313/&#34; &gt;}}Contact Us{{&lt; /button &gt;}}
 
 {{&lt; button url=&#34;https://plotly.com/python/&#34; new_tab=&#34;true&#34; style=&#34;secondary&#34; &gt;}}Learn Plotly{{&lt; /button &gt;}}
 ```
@@ -980,7 +980,7 @@ Add engaging call-to-action buttons to your data visualization posts:
 &lt;div class=&#34;text-left&#34;&gt;
   &lt;a
     id=&#34;button-0c24ba37a6a9e3987bd1c8c35750a612&#34;
-    href=&#34;http://localhost:1313/lize-alberts/data/results.csv&#34;
+    href=&#34;http://localhost:1313/data/results.csv&#34;
     
     
     
@@ -1039,7 +1039,7 @@ Add engaging call-to-action buttons to your data visualization posts:
 ```go-html-template
 {{&lt; button url=&#34;#&#34; style=&#34;primary&#34; size=&#34;lg&#34; align=&#34;center&#34; icon=&#34;chart-bar&#34; &gt;}}View Dashboard{{&lt; /button &gt;}}
 
-{{&lt; button url=&#34;http://localhost:1313/lize-alberts/data/results.csv&#34; style=&#34;outline&#34; icon=&#34;document-arrow-down&#34; &gt;}}Download Data{{&lt; /button &gt;}}
+{{&lt; button url=&#34;http://localhost:1313/data/results.csv&#34; style=&#34;outline&#34; icon=&#34;document-arrow-down&#34; &gt;}}Download Data{{&lt; /button &gt;}}
 
 {{&lt; button url=&#34;https://github.com/HugoBlox&#34; new_tab=&#34;true&#34; style=&#34;ghost&#34; icon=&#34;arrow-top-right-on-square&#34; icon_position=&#34;right&#34; &gt;}}View Source Code{{&lt; /button &gt;}}
 ```
@@ -1116,9 +1116,9 @@ Add engaging call-to-action buttons to your data visualization posts:
     
     <item>
       <title>Benchmarking Personalised LLM Agent Alignment</title>
-      <link>http://localhost:1313/lize-alberts/blog/curate/</link>
+      <link>http://localhost:1313/blog/curate/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lize-alberts/blog/curate/</guid>
+      <guid>http://localhost:1313/blog/curate/</guid>
       <description>&lt;p&gt;Developed benchmark and pipeline to evaluate large language models&amp;rsquo; ability to attend to and appropriately handle user-specific safety-critical context in recommendations. This project was completed as a part of my DPhil at the University of Oxford, in collaboration with &lt;a href = &#39;https://foersterlab.com/&#39; target = &#39;_blank&#39;&gt;Foerster Lab for AI Research (FLAIR)&lt;/a&gt; in Oxford&amp;rsquo;s Department of Engineering Science.&lt;/p&gt;
 &lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;
 &lt;p&gt;Aug 2024 - Nov 2024&lt;/p&gt;
@@ -1230,33 +1230,33 @@ Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main
     
     <item>
       <title>Pandas</title>
-      <link>http://localhost:1313/lize-alberts/projects/pandas/</link>
+      <link>http://localhost:1313/projects/pandas/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lize-alberts/projects/pandas/</guid>
+      <guid>http://localhost:1313/projects/pandas/</guid>
       <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>PyTorch</title>
-      <link>http://localhost:1313/lize-alberts/projects/pytorch/</link>
+      <link>http://localhost:1313/projects/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lize-alberts/projects/pytorch/</guid>
+      <guid>http://localhost:1313/projects/pytorch/</guid>
       <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>scikit-learn</title>
-      <link>http://localhost:1313/lize-alberts/projects/scikit/</link>
+      <link>http://localhost:1313/projects/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lize-alberts/projects/scikit/</guid>
+      <guid>http://localhost:1313/projects/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>http://localhost:1313/lize-alberts/blog/teach-courses/</link>
+      <link>http://localhost:1313/blog/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lize-alberts/blog/teach-courses/</guid>
+      <guid>http://localhost:1313/blog/teach-courses/</guid>
       <description>&lt;p&gt;
  is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
@@ -1289,7 +1289,7 @@ Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main
       Lize Alberts&lt;/span&gt;
   &lt;/span&gt;
   (2019).
-  &lt;a href=&#34;http://localhost:1313/lize-alberts/publications/preprint/&#34; class=&#34;underline&#34;&gt;An example preprint / working paper&lt;/a&gt;.
+  &lt;a href=&#34;http://localhost:1313/publications/preprint/&#34; class=&#34;underline&#34;&gt;An example preprint / working paper&lt;/a&gt;.
   
 
   
@@ -1412,7 +1412,7 @@ Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/lize-alberts/#&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/#&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M20.25 6.375c0 2.278-3.694 4.125-8.25 4.125S3.75 8.653 3.75 6.375m16.5 0c0-2.278-3.694-4.125-8.25-4.125S3.75 4.097 3.75 6.375m16.5 0v11.25c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125V6.375m16.5 0v3.75m-16.5-3.75v3.75m16.5 0v3.75C20.25 16.153 16.556 18 12 18s-8.25-1.847-8.25-4.125v-3.75m16.5 0c0 2.278-3.694 4.125-8.25 4.125s-8.25-1.847-8.25-4.125&#34;/&gt;&lt;/svg&gt;
         Dataset
       &lt;/a&gt;
@@ -1441,7 +1441,7 @@ Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/lize-alberts/#&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/#&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m2.25 15.75l5.159-5.159a2.25 2.25 0 0 1 3.182 0l5.159 5.159m-1.5-1.5l1.409-1.409a2.25 2.25 0 0 1 3.182 0l2.909 2.909m-18 3.75h16.5a1.5 1.5 0 0 0 1.5-1.5V6a1.5 1.5 0 0 0-1.5-1.5H3.75A1.5 1.5 0 0 0 2.25 6v12a1.5 1.5 0 0 0 1.5 1.5m10.5-11.25h.008v.008h-.008zm.375 0a.375.375 0 1 1-.75 0a.375.375 0 0 1 .75 0&#34;/&gt;&lt;/svg&gt;
         Poster
       &lt;/a&gt;
@@ -1470,7 +1470,7 @@ Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/lize-alberts/#&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/#&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
         Source Document
       &lt;/a&gt;
@@ -1653,7 +1653,7 @@ Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main
         &lt;/span&gt;
   &lt;/span&gt;
   (2013).
-  &lt;a href=&#34;http://localhost:1313/lize-alberts/publications/conference-paper/&#34; class=&#34;underline&#34;&gt;An example conference paper&lt;/a&gt;.
+  &lt;a href=&#34;http://localhost:1313/publications/conference-paper/&#34; class=&#34;underline&#34;&gt;An example conference paper&lt;/a&gt;.
   In &lt;em&gt;ICW&lt;/em&gt;.
   
 
@@ -1693,7 +1693,7 @@ Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/lize-alberts/&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
         PDF
       &lt;/a&gt;
@@ -1862,7 +1862,7 @@ Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main
     
 
     
-      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/lize-alberts/publications/conference-paper/conference-paper.pdf&#34;  &gt;
+      &lt;a class=&#34;hb-attachment-link hb-attachment-link-small&#34; href=&#34;http://localhost:1313/publications/conference-paper/conference-paper.pdf&#34;  &gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m0 12.75h7.5m-7.5 3H12M10.5 2.25H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9&#34;/&gt;&lt;/svg&gt;
         PDF
       &lt;/a&gt;
@@ -1891,7 +1891,7 @@ Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main
     
 
     
-      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/lize-alberts/publications/conference-paper/cite.bib&#34;&gt;
+      &lt;button class=&#34;hb-attachment-link hb-attachment-link-small js-cite-clipboard cursor-pointer&#34; type=&#34;button&#34; data-filename=&#34;/publications/conference-paper/cite.bib&#34;&gt;
         &lt;svg style=&#34;height: 1em&#34; class=&#39;inline-block&#39; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;M15.75 17.25v3.375c0 .621-.504 1.125-1.125 1.125h-9.75a1.125 1.125 0 0 1-1.125-1.125V7.875c0-.621.504-1.125 1.125-1.125H6.75a9.06 9.06 0 0 1 1.5.124m7.5 10.376h3.375c.621 0 1.125-.504 1.125-1.125V11.25c0-4.46-3.243-8.161-7.5-8.876a9.06 9.06 0 0 0-1.5-.124H9.375c-.621 0-1.125.504-1.125 1.125v3.5m7.5 10.375H9.375a1.125 1.125 0 0 1-1.125-1.125v-9.25m12 6.625v-1.875a3.375 3.375 0 0 0-3.375-3.375h-1.5a1.125 1.125 0 0 1-1.125-1.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H9.75&#34;/&gt;&lt;/svg&gt;
         &lt;span&gt;Cite&lt;/span&gt;
       &lt;/button&gt;
@@ -1976,7 +1976,7 @@ Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/lize-alberts/blog/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/blog/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -2035,9 +2035,9 @@ data.head()
     
     <item>
       <title>Embed Media</title>
-      <link>http://localhost:1313/lize-alberts/courses/hugo-blox/guide/formatting/media/</link>
+      <link>http://localhost:1313/courses/hugo-blox/guide/formatting/media/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lize-alberts/courses/hugo-blox/guide/formatting/media/</guid>
+      <guid>http://localhost:1313/courses/hugo-blox/guide/formatting/media/</guid>
       <description>&lt;p&gt;
  is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
@@ -2201,17 +2201,17 @@ data.head()
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/lize-alberts/experience/</link>
+      <link>http://localhost:1313/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lize-alberts/experience/</guid>
+      <guid>http://localhost:1313/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>http://localhost:1313/lize-alberts/blog/project-management/</link>
+      <link>http://localhost:1313/blog/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lize-alberts/blog/project-management/</guid>
+      <guid>http://localhost:1313/blog/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
@@ -2284,9 +2284,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>http://localhost:1313/lize-alberts/publications/preprint/</link>
+      <link>http://localhost:1313/publications/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lize-alberts/publications/preprint/</guid>
+      <guid>http://localhost:1313/publications/preprint/</guid>
       <description>&lt;p&gt;This work is driven by the results in my 
  on LLMs.&lt;/p&gt;
 
@@ -2344,9 +2344,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example journal article</title>
-      <link>http://localhost:1313/lize-alberts/publications/journal-article/</link>
+      <link>http://localhost:1313/publications/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lize-alberts/publications/journal-article/</guid>
+      <guid>http://localhost:1313/publications/journal-article/</guid>
       <description>
 
 
@@ -2450,9 +2450,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>An example conference paper</title>
-      <link>http://localhost:1313/lize-alberts/publications/conference-paper/</link>
+      <link>http://localhost:1313/publications/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lize-alberts/publications/conference-paper/</guid>
+      <guid>http://localhost:1313/publications/conference-paper/</guid>
       <description>
 
 
@@ -2556,9 +2556,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Buttons</title>
-      <link>http://localhost:1313/lize-alberts/courses/hugo-blox/guide/formatting/button/</link>
+      <link>http://localhost:1313/courses/hugo-blox/guide/formatting/button/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lize-alberts/courses/hugo-blox/guide/formatting/button/</guid>
+      <guid>http://localhost:1313/courses/hugo-blox/guide/formatting/button/</guid>
       <description>&lt;p&gt;A modern, customizable button shortcode with gradient styling, icons, and smart link handling.&lt;/p&gt;
 &lt;h2 id=&#34;basic-usage&#34;&gt;Basic Usage&lt;/h2&gt;
 
@@ -2567,7 +2567,7 @@ Parallel 4   :         des6, after des4, 1d
 &lt;div class=&#34;text-left&#34;&gt;
   &lt;a
     id=&#34;button-351ac412531c23e422b81c6422c17da5&#34;
-    href=&#34;http://localhost:1313/lize-alberts/contact&#34;
+    href=&#34;http://localhost:1313/contact&#34;
     
     
     
@@ -3095,7 +3095,7 @@ Parallel 4   :         des6, after des4, 1d
 &lt;div class=&#34;text-center&#34;&gt;
   &lt;a
     id=&#34;button-62059f8d62052633590d3f60ec092595&#34;
-    href=&#34;http://localhost:1313/lize-alberts/signup&#34;
+    href=&#34;http://localhost:1313/signup&#34;
     
     
     
@@ -3157,7 +3157,7 @@ Parallel 4   :         des6, after des4, 1d
 &lt;div class=&#34;text-left&#34;&gt;
   &lt;a
     id=&#34;button-72ec86801f391f16b84b269ade9d2995&#34;
-    href=&#34;http://localhost:1313/lize-alberts/files/document.pdf&#34;
+    href=&#34;http://localhost:1313/files/document.pdf&#34;
     
     
     
@@ -3276,9 +3276,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Callouts</title>
-      <link>http://localhost:1313/lize-alberts/courses/hugo-blox/guide/formatting/callout/</link>
+      <link>http://localhost:1313/courses/hugo-blox/guide/formatting/callout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lize-alberts/courses/hugo-blox/guide/formatting/callout/</guid>
+      <guid>http://localhost:1313/courses/hugo-blox/guide/formatting/callout/</guid>
       <description>&lt;p&gt;Hugo Blox supports GitHub and Obsidian-style Markdown callouts for maximum compatibility and content portability.&lt;/p&gt;
 &lt;p&gt;Callouts are a useful feature to draw attention to important or related content such as notes, hints, or warnings in your articles.&lt;/p&gt;
 &lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
@@ -4143,9 +4143,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Cards</title>
-      <link>http://localhost:1313/lize-alberts/courses/hugo-blox/guide/formatting/cards/</link>
+      <link>http://localhost:1313/courses/hugo-blox/guide/formatting/cards/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lize-alberts/courses/hugo-blox/guide/formatting/cards/</guid>
+      <guid>http://localhost:1313/courses/hugo-blox/guide/formatting/cards/</guid>
       <description>&lt;p&gt;A Hugo extension to create cards. Cards can be shown as links or as plain text.&lt;/p&gt;
 &lt;h2 id=&#34;usage&#34;&gt;Usage&lt;/h2&gt;
 
@@ -4206,9 +4206,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Internationalization (i18n)</title>
-      <link>http://localhost:1313/lize-alberts/courses/hugo-blox/reference/i18n/</link>
+      <link>http://localhost:1313/courses/hugo-blox/reference/i18n/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lize-alberts/courses/hugo-blox/reference/i18n/</guid>
+      <guid>http://localhost:1313/courses/hugo-blox/reference/i18n/</guid>
       <description>&lt;p&gt;Hugo Blox enables you to easily edit the interface text as well as translating your site into multiple languages using Hugo&amp;rsquo;s 
  feature.&lt;/p&gt;
 &lt;p&gt;View the full docs at 
@@ -4217,9 +4217,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Spoilers</title>
-      <link>http://localhost:1313/lize-alberts/courses/hugo-blox/guide/formatting/toggle/</link>
+      <link>http://localhost:1313/courses/hugo-blox/guide/formatting/toggle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lize-alberts/courses/hugo-blox/guide/formatting/toggle/</guid>
+      <guid>http://localhost:1313/courses/hugo-blox/guide/formatting/toggle/</guid>
       <description>&lt;p&gt;A Hugo shortcode to toggle collapsible content.&lt;/p&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 &lt;details class=&#34;spoiler &#34;  id=&#34;spoiler-0&#34;&gt;
@@ -4243,9 +4243,9 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Steps</title>
-      <link>http://localhost:1313/lize-alberts/courses/hugo-blox/guide/formatting/steps/</link>
+      <link>http://localhost:1313/courses/hugo-blox/guide/formatting/steps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lize-alberts/courses/hugo-blox/guide/formatting/steps/</guid>
+      <guid>http://localhost:1313/courses/hugo-blox/guide/formatting/steps/</guid>
       <description>&lt;p&gt;Display a series of steps, such as for a tutorial.&lt;/p&gt;
 &lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
 &lt;div class=&#34;hb-steps&#34;&gt;

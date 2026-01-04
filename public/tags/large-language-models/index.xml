@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Large Language Models | Lize Alberts Personal Website</title>
-    <link>http://localhost:1313/lize-alberts/tags/large-language-models/</link>
-      <atom:link href="http://localhost:1313/lize-alberts/tags/large-language-models/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/large-language-models/</link>
+      <atom:link href="http://localhost:1313/tags/large-language-models/index.xml" rel="self" type="application/rss+xml" />
     <description>Large Language Models</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/lize-alberts/media/logo_hu_eb199afa4ce2ac7e.png</url>
+      <url>http://localhost:1313/media/logo_hu_eb199afa4ce2ac7e.png</url>
       <title>Large Language Models</title>
-      <link>http://localhost:1313/lize-alberts/tags/large-language-models/</link>
+      <link>http://localhost:1313/tags/large-language-models/</link>
     </image>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>http://localhost:1313/lize-alberts/publications/preprint/</link>
+      <link>http://localhost:1313/publications/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lize-alberts/publications/preprint/</guid>
+      <guid>http://localhost:1313/publications/preprint/</guid>
       <description>&lt;p&gt;This work is driven by the results in my 
  on LLMs.&lt;/p&gt;
 
@@ -74,9 +74,9 @@
     
     <item>
       <title>An example conference paper</title>
-      <link>http://localhost:1313/lize-alberts/publications/conference-paper/</link>
+      <link>http://localhost:1313/publications/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/lize-alberts/publications/conference-paper/</guid>
+      <guid>http://localhost:1313/publications/conference-paper/</guid>
       <description>
 
 
