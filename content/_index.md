@@ -51,7 +51,7 @@ sections:
         
         My current courses focus on understanding the cognitive and environmental factors that underlie human behaviour, and the responsible application of this knowledge in the design of digital systems. This involves critically reflecting on implicit assumptions and goals in current design solutions.
         
-        I am optimistic about technological advancement, but not for its own sake, and not without seriously considering the implications. Drawing from Self-Determination Theory, I investigate how developers and interface designers may better place human autonomy, creativity, growth and wellbeing at the centre, while minimising device dependence. 
+        I am optimistic about technological advancement, but not for its own sake, and not without seriously considering the implications. Drawing from Self-Determination Theory, I investigate how developers and UI designers may better place human autonomy, creativity, growth and wellbeing at the centre, while minimising device dependence. 
         
     design:
       columns: '1' 
