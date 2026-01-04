@@ -41,21 +41,21 @@ sections:
   #       exclude_featured: false
   #   design:
   #     view: citation
-  - block: markdown 
-    id: vision
-    content:
-      title: 'Mission Statement'
-      subtitle: ''
-      text: |-
-        A key concern of my research in human-AI interaction design is individual empowerment; ensuring designers treat users and their needs, goals and capacities with the respect they deserve. Towards this aim, I combine methods and theories from my unique interdisciplinary background in AI, humanities, and the social, cognitive and behavioural sciences.
+  # - block: markdown 
+  #   id: vision
+  #   content:
+  #     title: 'Mission Statement'
+  #     subtitle: ''
+  #     text: |-
+  #       A key concern of my research in human-AI interaction design is individual empowerment; ensuring designers treat users and their needs, goals and capacities with the respect they deserve. Towards this aim, I combine methods and theories from my unique interdisciplinary background in AI, humanities, and the social, cognitive and behavioural sciences.
         
-        My current courses focus on understanding the cognitive and environmental factors that underlie human behaviour, and the responsible application of this knowledge in the design of digital systems. This involves critically reflecting on implicit assumptions and goals in current design solutions.
+  #       My current courses focus on understanding the cognitive and environmental factors that underlie human behaviour, and the responsible application of this knowledge in the design of digital systems. This involves critically reflecting on implicit assumptions and goals in current design solutions.
         
-        I am optimistic about technological advancement, but not for its own sake, and not without seriously considering the implications. Drawing from Self-Determination Theory, I investigate how developers and UI designers may better place human autonomy, creativity, growth and wellbeing at the centre, while minimising device dependence. 
+  #       I am optimistic about technological advancement, but not for its own sake, and not without seriously considering the implications. Drawing from Self-Determination Theory, I investigate how developers and UI designers may better place human autonomy, creativity, growth and wellbeing at the centre, while minimising device dependence. 
         
-    design:
-      columns: '1' 
-      css_style: 'font-size: 2rem;' 
+  #   design:
+  #     columns: '1' 
+  #     css_style: 'font-size: 2rem;' 
   # - block: collection
   #   id: projs
   #   content:
