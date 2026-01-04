@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project | Lize Alberts Personal Website</title>
+    <link>http://localhost:1313/tags/project/</link>
+      <atom:link href="http://localhost:1313/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Project</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu_eb199afa4ce2ac7e.png</url>
+      <title>Project</title>
+      <link>http://localhost:1313/tags/project/</link>
+    </image>
+    
+    <item>
+      <title>Autonomy in the Attention Economy</title>
+      <link>http://localhost:1313/blog/niaa/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/niaa/</guid>
+      <description>&lt;p&gt;Awarded grant to investigate misalignments between user ideals for their online behaviour and the reality, and between how users&amp;rsquo; perceive themselves vs how algorithms perceive them.&lt;/p&gt;
+&lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;
+&lt;p&gt;Oct 2025 - Apr 2026&lt;/p&gt;
+&lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;b&gt;Dr. Lize Alberts&lt;/b&gt;, AI &amp; Behaviour, Dept. Computer Science, VU Amsterdam&lt;/li&gt;
+  &lt;li&gt;&lt;a href = &#39;https://research.vu.nl/en/persons/marcos-oliveira&#39; target = &#39;_blank&#39;&gt;Dr. Marcos Oliveira&lt;/a&gt;, AI &amp; Behaviour, Dept. Computer Science, VU Amsterdam&lt;/li&gt;
+  &lt;li&gt;&lt;a href = &#39;https://research.vu.nl/en/persons/tim-groot-kormelink&#39; target = &#39;_blank&#39;&gt;Dr. Tim Groot Kormelink&lt;/a&gt;, Dept. Journalism Studies, VU Amsterdam&lt;/li&gt;
+  &lt;li&gt;Aalhad Patwardhan, Dept. Computer Science, VU Amsterdam&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
+&lt;p&gt;Digital platforms have reshaped how we spend our time and attention. Although technologies increasingly mediate all aspects of human life, there are often subtle but significant misalignments between what users want, what algorithms can infer about users and their needs, and what platforms are designed to promote. These misalignments undermine users’ autonomy over their behaviour, and may profoundly affect their wellbeing and sense of identity over time.&lt;/p&gt;
+&lt;p&gt;How do such misalignments emerge? To what extent do algorithms accurately
+represent who users are—or who they want to be? Despite growing awareness of the psychological and social impacts of digital media, we still do not understand how these mismatches arise or how to quantify them.&lt;/p&gt;
+&lt;p&gt;To tackle these questions, our project aims to uncover mechanisms driving three fundamental misalignments: (i) how users intend to spend their time versus how they actually spend it, (ii) how users believe they spend their time versus their actual usage patterns, and (iii) how users perceive their interests and identity versus how algorithms construct them.&lt;/p&gt;
+&lt;p&gt;We will recruit adult smartphone users for a three-month study. Participants will log their intentions and reflect weekly on their long-term goals. In parallel, participants will donate their digital trace data (app usage, video viewing patterns, etc.) via the Digital Data Donation Infrastructure (D3I). By combining subjective reflection and individual-level digital behavioral data, we will make quantitative as well as qualitative comparisons between users’ stated goals and preferences, and their actual digital behaviour.&lt;/p&gt;
+&lt;!-- 
+
+&lt;div class=&#34;highlight&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;
+&lt;code&gt;
+```markmap {height=&#34;200px&#34;}
+- Hugo Modules
+  - Hugo Blox
+  - blox-plugins-netlify
+  - blox-plugins-netlify-cms
+  - blox-plugins-reveal
+```
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+
+renders as
+
+```markmap {height=&#34;200px&#34;}
+- Hugo Modules
+  - Hugo Blox
+  - blox-plugins-netlify
+  - blox-plugins-netlify-cms
+  - blox-plugins-reveal
+```
+
+Anh here&#39;s a more advanced mindmap with formatting, code blocks, and math:
+
+&lt;div class=&#34;highlight&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;
+&lt;code&gt;
+```markmap
+- Mindmaps
+  - Links
+    - [Hugo Blox Docs](https://docs.hugoblox.com/)
+    - [Discord Community](https://discord.gg/z8wNYzb)
+    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
+  - Features
+    - Markdown formatting
+    - **inline** ~~text~~ *styles*
+    - multiline
+      text
+    - `inline code`
+    -
+      ```js
+      console.log(&#39;hello&#39;);
+      console.log(&#39;code block&#39;);
+      ```
+    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+```
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+
+renders as
+
+```markmap
+- Mindmaps
+  - Links
+    - [Hugo Blox Docs](https://docs.hugoblox.com/)
+    - [Discord Community](https://discord.gg/z8wNYzb)
+    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
+  - Features
+    - Markdown formatting
+    - **inline** ~~text~~ *styles*
+    - multiline
+      text
+    - `inline code`
+    -
+      ```js
+      console.log(&#39;hello&#39;);
+      console.log(&#39;code block&#39;);
+      ```
+    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+```
+
+## Highlighting
+
+&lt;mark&gt;Highlight&lt;/mark&gt; important text with `mark`:
+
+```html
+&lt;mark&gt;Highlighted text&lt;/mark&gt;
+```
+&lt;!-- 
+## Callouts
+
+Use [callouts](https://docs.hugoblox.com/reference/markdown/#callouts) (aka _asides_, _hints_, or _alerts_) to draw attention to notes, tips, and warnings.
+
+Use the `&gt; [!NOTE]` syntax to create a callout.
+
+```markdown
+&gt; [!NOTE]
+&gt; A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+```
+
+renders as
+
+&gt; [!NOTE]
+&gt; A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+
+Or use the `warning` callout type so your readers don&#39;t miss critical details:
+
+&gt; [!WARNING]
+&gt; A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+
+## Did you find this page helpful? Consider sharing it 🙌 --&gt; 
+</description>
+    </item>
+    
+  </channel>
+</rss>
