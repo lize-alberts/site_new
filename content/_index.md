@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: '4rem'
+  spacing: '2rem'
 
 sections:
   - block: resume-biography-3
@@ -16,10 +16,10 @@ sections:
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: View CV
         url: uploads/resume.pdf
       headings:
-        about: 'Overview'
+        about: 'Bio'
         education: 'Education'
         interests: 'Topics'
     design:
@@ -29,60 +29,59 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+ 
+  # - block: collection
+  #   id: pub
+  #   content:
+  #     title: Recent Papers
+  #     text: ''
+  #     filters:
+  #       folders:
+  #         - publications
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
   - block: markdown 
     id: vision
     content:
       title: 'Mission Statement'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-
-        <ul>
-          <li>Coffee</li>
-          <li>Tea</li>
-          <li>Milk</li>
-        </ul>
+        A key concern of my research in human-AI interaction design is individual empowerment; ensuring designers treat users and their needs, goals and capacities with the respect they deserve. Towards this aim, I combine methods and theories from my unique interdisciplinary background in AI, humanities, and the social, cognitive and behavioural sciences.
+        
+        My current courses focus on understanding the cognitive and environmental factors that underlie human behaviour, and the responsible application of this knowledge in the design of digital systems. This involves critically reflecting on implicit assumptions and goals in current design solutions.
+        
+        I am optimistic about technological advancement, but not for its own sake, and not without seriously considering the implications. Drawing from Self-Determination Theory, I investigate how developers and interface designers may better place human autonomy, creativity, growth and wellbeing at the centre, while minimising device dependence. 
+        
     design:
       columns: '1' 
-  - block: collection
-    id: pub
-    content:
-      title: Recent Papers
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: projs
-    content:
-      title: Projects
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: blog
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 3
-      # Filter on criteria
-      filters:
-        author: ''
-        category: ''
-        tag: ''
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      view: article-grid
-      columns: 3
+      css_style: 'font-size: 2rem;' 
+  # - block: collection
+  #   id: projs
+  #   content:
+  #     title: Projects
+  #     subtitle: ''
+  #     text: ''
+  #     # Page type to display. E.g. post, talk, publication...
+  #     page_type: blog
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 3
+  #     # Filter on criteria
+  #     filters:
+  #       author: ''
+  #       category: ''
+  #       tag: ''
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ''
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     view: article-grid
+  #     columns: 3
 
   # - block: collection
   #   id: papers
@@ -97,26 +96,26 @@ sections:
   #     columns: 3  
 
   # - block: resume-skills
-  - block: collection
-    id: talks
-    content:
-      title: Talks & Courses
-      filters:
-        folders:
-          - events
-    design:
-      view: article-grid
-      columns: 1
-  - block: resume-experience
-    id: detailed-ed
-    content:
-      username: admin
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: true
-
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Talks & Courses
+  #     filters:
+  #       folders:
+  #         - events
+  #   design:
+  #     view: article-grid
+  #     columns: 1
+  # - block: resume-experience
+  #   id: detailed-ed
+  #   content:
+  #     username: admin
+  #   design:
+  #     # Hugo date format
+  #     date_format: 'January 2006'
+  #     # Education or Experience section first?
+  #     is_education_first: false
+    
   #   content:
   #     title: Skills & Hobbies
   #     username: admin
@@ -130,21 +129,21 @@ sections:
   #   content:
   #     title: Languages
   #     username: admin
-  - block: markdown 
-    id: hobbies
-    content:
-      title: 'Hobbies & Personal Life'
-      subtitle: ''
-      text: |-
-        I am 
+  # - block: markdown 
+  #   id: hobbies
+  #   content:
+  #     title: 'Hobbies & Personal Life'
+  #     subtitle: ''
+  #     text: |-
+  #       I am 
 
-        <ul>
-          <li>Coffee</li>
-          <li>Tea</li>
-          <li>Milk</li>
-        </ul>
-    design:
-      columns: '1' 
+  #       <ul>
+  #         <li>Coffee</li>
+  #         <li>Tea</li>
+  #         <li>Milk</li>
+  #       </ul>
+  #   design:
+  #     columns: '1' 
 
   # # - block: cta-card
   #   demo: true # Only display this section in the Hugo Blox Builder demo site

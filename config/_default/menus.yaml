@@ -7,24 +7,24 @@ main:
   - name: Bio
     url: /
     weight: 10
-  - name: Projects
-    url: /#projs
-    weight: 13
+  # - name: Projects
+  #   url: /#projs
+  #   weight: 13
   - name: Papers
     url: /#pub
-    weight: 12
-  - name: Background
-    url: /#detailed-ed
-    weight: 15
+    weight: 11
+  # - name: Background
+  #   url: /#detailed-ed
+  #   weight: 15
   - name: Mission
     url: /#vision
-    weight: 11
-  - name: Talks
-    url: /#talks
-    weight: 14
-  - name: Hobbies
-    url: /#hobbies
-    weight: 16
+    weight: 12
+  # - name: Talks
+  #   url: /#talks
+  #   weight: 14
+  # - name: Hobbies
+  #   url: /#hobbies
+  #   weight: 16
 
   # - name: Courses
   #   url: courses/

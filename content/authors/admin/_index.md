@@ -64,35 +64,29 @@ education:
     date_start: 2020-09-01
     date_end: 2025-01-01
     summary: |
-      Thesis on contextual alignment of social and agentic AI. Novel framework for evaluating how digital social actors treat people in interactions.
-      
-      Part completed as Student Researcher at Google.
+     Part completed as Student Researcher at Google.
     url: /#detailed-ed
     button:
       text: 'See DPhil Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: M.A. Philosophy | Cognitive & Computational Linguistics
+  - area: M.A. (Thesis) Philosophy | Cognitive & Computational Linguistics
     institution: Stellenbosch University
     date_start: 2020-01-14
     date_end: 2020-11-15
     summary: |
-      Interdisciplinary research thesis (140 pages) on grounded language learning and the nature of language understanding in AI. Combines research in NLU, philosophy, cognitive linguistics, and computational linguistics to assess limitations and opportunities.
-      
+      Master's by thesis (140 pages) on supporting multi-modal grounded language learning in AI, drawing from 4E/embodied cognition theories in cognitive science.
       Graduated with distinction.
     url: /#detailed-ed
     button:
       text: 'See Masters Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: B.A. Hons. Philosophy
+  - area: B.A. (Honours) Philosophy
     institution: Stellenbosch University, University of Bristol
     date_start: 2009-09-01
     date_end: 2019-03-15
     summary: |
-      Dissertation on computational linguistics critically compares natural vs constructed language for human-AI communication. Published in peer-reviewed journal.
-
-      Courses: Probability and Rationality, Nietzsche, Philosophical Issues of the Physical Sciences, Philosophy of Language. 
-      
-      Graduated with distinction.
+       Dissertation focused on the use of constructed language to facilitate human-AI interaction, and was published in a peer-reviewed journal.
+       Graduated with distinction.
     url: /#detailed-ed
     button:
       text: 'See Hons Dissertation'
@@ -102,14 +96,12 @@ education:
     date_start: 2015-01-13
     date_end: 2018-03-15
     summary: |
-      Studied two degrees simultaneously: Philosophy & the Social Sciences; History of Art & English. 
-
-      Graduated with distinction. Received merits specific courses (Urban Anthropology, Medical Anthropology) and top overall achievement in Philosophy.
+      Completed credits for two degrees: Philosophy & the Social Sciences, Art History & English.
+      Graduated with distinction. Merits for achieving highest grade.
     url: /#detailed-ed
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com/thesis.pdf'
-
+    button:
+      text: 'See Thesis'
+      url: 'https://example.com/thesis.pdf'
 # work:
 #   - position: Assistant Professor
 #     company_name: Meta AI
@@ -213,51 +205,49 @@ education:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Graduate Lighthouse Scholarship
-    # url: https://neurips.cc/
-    date: '2020-09-01'
-    awarder: University of Oxford, Responsible Technology Institute
-    icon: 
-    summary: |
-      Highly competitive full scholarship from Oxford University to fund DPhil projects in computer science for topics related to responsible innovation.
-  - title: Excellent Academic Achievement
-    # url: https://www.nsf.gov/
-    date: '2017-11-15'
-    awarder: NWU Potchefstroom
-    # icon: hero/currency-dollar
-    summary: |
-      Best overall achievement in Philosophy.
-  - title: Best Academic Achievement
-    # url: https://www.nsf.gov/
-    date: '2017-11-15'
-    awarder: NWU Potchefstroom
-    # icon: hero/currency-dollar
-    summary: |
-      Top achievement in third year Urban Anthropology course.
-  - title: Best Academic Achievement
-    # url: https://www.nsf.gov/
-    date: '2017-11-15'
-    awarder: NWU Potchefstroom
-    # icon: hero/currency-dollar
-    summary: |
-      Top achievement in third year Medical Anthropology course.
-  - title: Member of Golden Key Honour Society 
-    # url: https://www.stanford.edu/
-    date: '2016-06-30'
-    awarder: NWU Potchefstroom
-    # icon: hero/academic-cap
-    summary: |
-      Recognised for ranking in the top 15% of sophomores.
+# awards:
+#   - title: Graduate Lighthouse Scholarship
+#     # url: https://neurips.cc/
+#     date: '2020-09-01'
+#     awarder: University of Oxford, Responsible Technology Institute
+#     icon: 
+#     summary: |
+#       Highly competitive full scholarship from Oxford University to fund DPhil projects in computer science for topics related to responsible innovation.
+#   - title: Excellent Academic Achievement
+#     # url: https://www.nsf.gov/
+#     date: '2017-11-15'
+#     awarder: NWU Potchefstroom
+#     # icon: hero/currency-dollar
+#     summary: |
+#       Best overall achievement in Philosophy.
+#   - title: Best Academic Achievement
+#     # url: https://www.nsf.gov/
+#     date: '2017-11-15'
+#     awarder: NWU Potchefstroom
+#     # icon: hero/currency-dollar
+#     summary: |
+#       Top achievement in third year Urban Anthropology course.
+#   - title: Best Academic Achievement
+#     # url: https://www.nsf.gov/
+#     date: '2017-11-15'
+#     awarder: NWU Potchefstroom
+#     # icon: hero/currency-dollar
+#     summary: |
+#       Top achievement in third year Medical Anthropology course.
+#   - title: Member of Golden Key Honour Society 
+#     # url: https://www.stanford.edu/
+#     date: '2016-06-30'
+#     awarder: NWU Potchefstroom
+#     # icon: hero/academic-cap
+#     summary: |
+#       Recognised for ranking in the top 15% of sophomores.
 ---
 
-I am an assistant professor at the Vrije Universiteit Amsterdam, working in the <a href="https://ai-behaviour.nl/">AI & Behaviour</a> group in the Department of Computer Science. We work towards developing AI-based tools and techniques to analyse, predict, and support human behaviour and flourishing, combining interdisciplinary theory and methods to support individual empowerment and respect societal values. In this capacity, I'm affiliated with the Netherlands' [Hybrid Intelligence Centre](https://www.hybrid-intelligence-centre.nl/), supervising PhD research on personalising LLM dialogue agents for sustained individual behavioural support. I'm also a research associate at the [Unit for the Ethics of Technology](https://www.su.ac.za/en/faculty/arts/centre-for-applied-ethics/technology-ethics/unit-ethics-technology-people) at Stellenbosch University, and an associate editor of the upcoming [Cambridge University Press (CUP) bookseries on AI Ethics & Society](https://www.cambridge.org/core/publications/elements/elements-in-ai-ethics-and-society). 
+I am an assistant professor at the Vrije Universiteit Amsterdam, working in the <a href="https://ai-behaviour.nl/">AI & Behaviour</a> group in the Department of Computer Science. We work towards developing AI-based tools and techniques to analyse, predict, and support human behaviour and flourishing, combining interdisciplinary theory and methods to support individual empowerment and respect societal values. I am affiliated with the Netherlands' [Hybrid Intelligence Centre](https://www.hybrid-intelligence-centre.nl/), supervising PhD research on personalising LLM dialogue agents for sustained individual behavioural support. I am a research associate at the [Unit for the Ethics of Technology](https://www.su.ac.za/en/faculty/arts/centre-for-applied-ethics/technology-ethics/unit-ethics-technology-people) at Stellenbosch University, and an associate editor of the upcoming [Cambridge University Press (CUP) book series on AI Ethics & Society](https://www.cambridge.org/core/publications/elements/elements-in-ai-ethics-and-society). 
 
-My educational background spans human-centered AI, computational linguistics, HCI, behavioural psychology, software engineering, philosophy, social anthropology, and cognitive science. I have worked at Google as a student researcher on [contextualising the alignment of social AI agents](https://arxiv.org/abs/2401.09082), sparking a growing area of research that has since been termed [socioaffective alignment](https://www.nature.com/articles/s41599-025-04532-5). 
+My education spans human-centered AI, computational linguistics, HCI, behavioural psychology, software engineering, philosophy, social anthropology, and cognitive science. I have worked at Google as a student researcher on [contextualising the alignment of social AI agents](https://arxiv.org/abs/2401.09082), sparking a growing area of research that has since been termed [socioaffective alignment](https://www.nature.com/articles/s41599-025-04532-5). 
 
-I obtained my doctorate at the University of Oxford, focusing on [the ethics of human-AI social interaction](https://ora.ox.ac.uk/objects/uuid:f87bbd90-408f-4470-bd75-c94e73650026). My master's thesis focused on supporting [multi-modal grounded language learning in AI](https://arxiv.org/pdf/2206.14672), drawing from 4E/embodied cognition theories in cognitive science. 
+I obtained my doctorate at the University of Oxford, focusing on [the ethics of human-AI social interaction](https://ora.ox.ac.uk/objects/uuid:f87bbd90-408f-4470-bd75-c94e73650026). My master's thesis focused on supporting [multi-modal grounded language learning in AI](https://arxiv.org/pdf/2206.14672), drawing from 4E/embodied cognition theories in cognitive science. I have published in several top-rated journals, collaborating with industry as well as universities from across the world. I have been invited to present on my work at Google, Cambridge, and Princeton University.
 
-I have published in several top-rated journals, collaborating with industry as well as universities from across the world. I've presented my work at Google, Cambridge, and Princeton University, and led a masterclass on Dark Patterns for the Royal Institute in London. 
-
-More information about my projects and mission can be found on my CV and below. 
+More information about my projects, background and mission can be found on my CV and below. Find my publications on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=AeNBSEYAAAAJ#) page.
 
