@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Lize Alberts Personal Website</title>
-    <link>https://lize-alberts.github.io/events/</link>
-      <atom:link href="https://lize-alberts.github.io/events/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lize-alberts.github.io/lize-alberts/events/</link>
+      <atom:link href="https://lize-alberts.github.io/lize-alberts/events/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lize-alberts.github.io/media/logo_hu_eb199afa4ce2ac7e.png</url>
+      <url>https://lize-alberts.github.io/lize-alberts/media/logo_hu_eb199afa4ce2ac7e.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://lize-alberts.github.io/events/</link>
+      <link>https://lize-alberts.github.io/lize-alberts/events/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://lize-alberts.github.io/events/example/</link>
+      <link>https://lize-alberts.github.io/lize-alberts/events/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://lize-alberts.github.io/events/example/</guid>
+      <guid>https://lize-alberts.github.io/lize-alberts/events/example/</guid>
       <description>
 
 

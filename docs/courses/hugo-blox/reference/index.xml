@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reference | Lize Alberts Personal Website</title>
-    <link>https://lize-alberts.github.io/courses/hugo-blox/reference/</link>
-      <atom:link href="https://lize-alberts.github.io/courses/hugo-blox/reference/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lize-alberts.github.io/lize-alberts/courses/hugo-blox/reference/</link>
+      <atom:link href="https://lize-alberts.github.io/lize-alberts/courses/hugo-blox/reference/index.xml" rel="self" type="application/rss+xml" />
     <description>Reference</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://lize-alberts.github.io/media/logo_hu_eb199afa4ce2ac7e.png</url>
+      <url>https://lize-alberts.github.io/lize-alberts/media/logo_hu_eb199afa4ce2ac7e.png</url>
       <title>Reference</title>
-      <link>https://lize-alberts.github.io/courses/hugo-blox/reference/</link>
+      <link>https://lize-alberts.github.io/lize-alberts/courses/hugo-blox/reference/</link>
     </image>
     
     <item>
       <title>Customizing Hugo</title>
-      <link>https://lize-alberts.github.io/courses/hugo-blox/reference/customization/</link>
+      <link>https://lize-alberts.github.io/lize-alberts/courses/hugo-blox/reference/customization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lize-alberts.github.io/courses/hugo-blox/reference/customization/</guid>
+      <guid>https://lize-alberts.github.io/lize-alberts/courses/hugo-blox/reference/customization/</guid>
       <description>&lt;p&gt;View the full docs at 
 &lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Internationalization (i18n)</title>
-      <link>https://lize-alberts.github.io/courses/hugo-blox/reference/i18n/</link>
+      <link>https://lize-alberts.github.io/lize-alberts/courses/hugo-blox/reference/i18n/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lize-alberts.github.io/courses/hugo-blox/reference/i18n/</guid>
+      <guid>https://lize-alberts.github.io/lize-alberts/courses/hugo-blox/reference/i18n/</guid>
       <description>&lt;p&gt;Hugo Blox enables you to easily edit the interface text as well as translating your site into multiple languages using Hugo&amp;rsquo;s 
  feature.&lt;/p&gt;
 &lt;p&gt;View the full docs at 

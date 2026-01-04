@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Large Language Models | Lize Alberts Personal Website</title>
-    <link>https://lize-alberts.github.io/tags/large-language-models/</link>
-      <atom:link href="https://lize-alberts.github.io/tags/large-language-models/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lize-alberts.github.io/lize-alberts/tags/large-language-models/</link>
+      <atom:link href="https://lize-alberts.github.io/lize-alberts/tags/large-language-models/index.xml" rel="self" type="application/rss+xml" />
     <description>Large Language Models</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://lize-alberts.github.io/media/logo_hu_eb199afa4ce2ac7e.png</url>
+      <url>https://lize-alberts.github.io/lize-alberts/media/logo_hu_eb199afa4ce2ac7e.png</url>
       <title>Large Language Models</title>
-      <link>https://lize-alberts.github.io/tags/large-language-models/</link>
+      <link>https://lize-alberts.github.io/lize-alberts/tags/large-language-models/</link>
     </image>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://lize-alberts.github.io/publications/preprint/</link>
+      <link>https://lize-alberts.github.io/lize-alberts/publications/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://lize-alberts.github.io/publications/preprint/</guid>
+      <guid>https://lize-alberts.github.io/lize-alberts/publications/preprint/</guid>
       <description>&lt;p&gt;This work is driven by the results in my 
  on LLMs.&lt;/p&gt;
 
@@ -74,9 +74,9 @@
     
     <item>
       <title>An example conference paper</title>
-      <link>https://lize-alberts.github.io/publications/conference-paper/</link>
+      <link>https://lize-alberts.github.io/lize-alberts/publications/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://lize-alberts.github.io/publications/conference-paper/</guid>
+      <guid>https://lize-alberts.github.io/lize-alberts/publications/conference-paper/</guid>
       <description>
 
 
