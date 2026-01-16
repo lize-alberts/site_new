@@ -1,6 +1,6 @@
 ---
 title: Autonomy in the Attention Economy
-summary: Awarded NIAA grant for an interdisciplinary project to investigate misalignments between users' perceptions of their digital behaviour and the reality, and how this compares with their intended device usage goals. 
+summary: Awarded NIAA grant for an interdisciplinary project to investigate misalignments between users' perceptions of their digital behaviour and the reality, and how this compares with their intended device usage goals.  
 date: 2025-10-01
 authors:
   # - admin
@@ -10,7 +10,7 @@ tags:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Awarded <a href = 'https://networkinstitute.org/funding/academy-assistants/' target = '_blank'>NIAA</a> grant to investigate misalignments between user preferences regarding their online behaviour and the reality, and between users' self-perception vs how algorithms perceive them.
+Awarded <a href = 'https://networkinstitute.org/funding/academy-assistants/' target = '_blank'>NIAA</a> grant to investigate misalignments between user preferences regarding their online behaviour and the reality, and between users' self-perception vs how algorithms perceive them. I am co-supervising two student academic assistants, one from STEM and one from the Humanities. 
 
 ## Timeline
 
@@ -19,10 +19,10 @@ Oct 2025 - Apr 2026
 ## Collaborators
 <ul>
   <!-- <li><b>Dr. Lize Alberts</b>, AI & Behaviour, Dept. Computer Science, VU Amsterdam</li> -->
-  <li><a href = 'https://research.vu.nl/en/persons/marcos-oliveira' target = '_blank'>Dr. Marcos Oliveira</a>, AI & Behaviour, Dept. Computer Science, VU Amsterdam</li>
-  <li><a href = 'https://research.vu.nl/en/persons/tim-groot-kormelink' target = '_blank'>Dr. Tim Groot Kormelink</a>, Dept. Journalism Studies, VU Amsterdam</li>
-  <li>Aalhad Patwardhan, Dept. Computer Science, VU Amsterdam</li>
-  <li>Roos van der Molen, Dept. Journalism Studies, VU Amsterdam</li>
+  <li><a href = 'https://research.vu.nl/en/persons/marcos-oliveira' target = '_blank'>Dr. Marcos Oliveira</a> (co-supervisor), AI & Behaviour, Dept. Computer Science, VU Amsterdam</li>
+  <li><a href = 'https://research.vu.nl/en/persons/tim-groot-kormelink' target = '_blank'>Dr. Tim Groot Kormelink</a> (co-supervisor), Dept. Journalism Studies, VU Amsterdam</li>
+  <li>Aalhad Patwardhan (student assistant)</li>
+  <li>Roos van der Molen (student assistant)</li>
 </ul>
 
 

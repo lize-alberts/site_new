@@ -10,7 +10,7 @@ tags:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Integrating a knowledge graph as user 'mental model' into a large language model (LLM) based dialogue agent to effectively personalise behaviour change support. This project is funded by the [Hybrid Intelligence Centre](https://www.hybrid-intelligence-centre.nl/).
+I am the daily supervisor of a PhD project integrating a knowledge graph as user 'mental model' into a large language model (LLM) based dialogue agent to effectively personalise behaviour change support. This project is funded by the [Hybrid Intelligence Centre](https://www.hybrid-intelligence-centre.nl/).
 
 ## Timeline
 
@@ -19,9 +19,9 @@ Sept 2025 - Sept 2029
 ## Collaborators
 <ul>
   <!-- <li><b>Dr. Lize Alberts</b>, AI & Behaviour, Dept. Computer Science, VU Amsterdam</li> -->
-  <li><a href = 'https://research.vu.nl/en/persons/marcos-oliveira' target = '_blank'>Dr. Charlotte Gerritsen</a>, AI & Behaviour, Dept. Computer Science, VU Amsterdam</li>
-  <li><a href = 'https://research.vu.nl/en/persons/tim-groot-kormelink' target = '_blank'>Dr. Catharine Oertel Bierbacht</a>, Dept. Computer Science, TU Delft</li>
-  <li>Ilke Asal, AI & Behaviour, Dept. Computer Science, VU Amsterdam</li>
+  <li>Ilke Asal (PhD student), AI & Behaviour, Dept. Computer Science, VU Amsterdam</li>
+  <li><a href = 'https://research.vu.nl/en/persons/marcos-oliveira' target = '_blank'>Dr. Charlotte Gerritsen</a> (co-supervisor), AI & Behaviour, Dept. Computer Science, VU Amsterdam</li>
+  <li><a href = 'https://research.vu.nl/en/persons/tim-groot-kormelink' target = '_blank'>Dr. Catharine Oertel Bierbacht</a> (co-supervisor), Dept. Computer Science, TU Delft</li>
 </ul>
 
 <!-- 
