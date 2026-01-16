@@ -9,8 +9,7 @@ tags:
 # image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
-
-I supervise a PhD project integrating a knowledge graph as user 'mental model' into a large language model (LLM) based dialogue agent to effectively personalise behaviour change support. This project is funded by the [Hybrid Intelligence Centre](https://www.hybrid-intelligence-centre.nl/).
+I supervise a PhD project integrating a knowledge graph / model of a specific user into an LLM-based dialogue agent to effectively personalise behaviour change support. This project is funded by the [Hybrid Intelligence Centre](https://www.hybrid-intelligence-centre.nl/).
 
 ## Timeline
 
