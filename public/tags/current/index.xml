@@ -26,13 +26,14 @@
   &lt;li&gt;&lt;a href = &#39;https://research.vu.nl/en/persons/marcos-oliveira&#39; target = &#39;_blank&#39;&gt;Dr. Marcos Oliveira&lt;/a&gt;, AI &amp; Behaviour, Dept. Computer Science, VU Amsterdam&lt;/li&gt;
   &lt;li&gt;&lt;a href = &#39;https://research.vu.nl/en/persons/tim-groot-kormelink&#39; target = &#39;_blank&#39;&gt;Dr. Tim Groot Kormelink&lt;/a&gt;, Dept. Journalism Studies, VU Amsterdam&lt;/li&gt;
   &lt;li&gt;Aalhad Patwardhan, Dept. Computer Science, VU Amsterdam&lt;/li&gt;
+  &lt;li&gt;Roos van der Molen, Dept. Journalism Studies, VU Amsterdam&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;project-summary&#34;&gt;Project Summary&lt;/h2&gt;
 &lt;p&gt;Digital platforms have reshaped how we spend our time and attention. Although technologies increasingly mediate all aspects of human life, there are often subtle but significant misalignments between what users want, what algorithms can infer about users and their needs, and what platforms are designed to promote. These misalignments undermine users’ autonomy over their behaviour, and may profoundly affect their wellbeing and sense of identity over time.&lt;/p&gt;
 &lt;p&gt;How do such misalignments emerge? To what extent do algorithms accurately
 represent who users are—or who they want to be? Despite growing awareness of the psychological and social impacts of digital media, we still do not understand how these mismatches arise or how to quantify them.&lt;/p&gt;
 &lt;p&gt;To tackle these questions, our project aims to uncover mechanisms driving three fundamental misalignments: (i) how users intend to spend their time versus how they actually spend it, (ii) how users believe they spend their time versus their actual usage patterns, and (iii) how users perceive their interests and identity versus how algorithms construct them.&lt;/p&gt;
-&lt;p&gt;We will recruit adult smartphone users for a three-month study. Participants will log their intentions and reflect weekly on their long-term goals. In parallel, participants will donate their digital trace data (app usage, video viewing patterns, etc.) via the Digital Data Donation Infrastructure (D3I). By combining subjective reflection and individual-level digital behavioral data, we will make quantitative as well as qualitative comparisons between users’ stated goals and preferences, and their actual digital behaviour.&lt;/p&gt;
+&lt;p&gt;We will recruit adult smartphone users for a three-month study. Participants will log their intentions and reflect weekly on their long-term goals, and write self-reflections on their daily device usage in a diary study. In parallel, participants will donate their digital trace data (app usage, video viewing patterns, etc.). By combining subjective reflection and individual-level digital behavioral data, we will make quantitative as well as qualitative comparisons between users’ stated goals and preferences, and their actual digital behaviour.&lt;/p&gt;
 &lt;!-- 
 
 &lt;div class=&#34;highlight&#34;&gt;
@@ -147,7 +148,8 @@ Or use the `warning` callout type so your readers don&#39;t miss critical detail
       <link>http://localhost:1313/blog/hi/</link>
       <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/hi/</guid>
-      <description>&lt;p&gt;Investigating the effect of integrating a knowledge graph as user &amp;lsquo;mental model&amp;rsquo; into a large language model (LLM) based dialogue agent for personalised behaviour change support. This project is funded by the 20 million Euro Hybrid Intelligence grant.&lt;/p&gt;
+      <description>&lt;p&gt;Integrating a knowledge graph as user &amp;lsquo;mental model&amp;rsquo; into a large language model (LLM) based dialogue agent to effectively personalise behaviour change support. This project is funded by the 
+.&lt;/p&gt;
 &lt;h2 id=&#34;timeline&#34;&gt;Timeline&lt;/h2&gt;
 &lt;p&gt;Sept 2025 - Sept 2029&lt;/p&gt;
 &lt;h2 id=&#34;collaborators&#34;&gt;Collaborators&lt;/h2&gt;
@@ -539,7 +541,7 @@ Demo:
 
 
 
-&lt;div id=&#34;chart-831472659&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-396185427&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -557,7 +559,7 @@ Demo:
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-831472659&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-396185427&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

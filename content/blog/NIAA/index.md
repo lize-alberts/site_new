@@ -1,7 +1,7 @@
 ---
 title: Autonomy in the Attention Economy
-summary: Awarded NIAA grant to investigate misalignments between user preferences regarding their online behaviour and the reality, and between users' self-perception vs how algorithms perceive them. 
-date: 2025-10-02
+summary: Awarded NIAA grant for an interdisciplinary project to investigate misalignments between users' perceptions of their digital behaviour and the reality, and how this compares with their intended device usage goals. 
+date: 2025-10-01
 authors:
   # - admin
 tags:
@@ -22,6 +22,7 @@ Oct 2025 - Apr 2026
   <li><a href = 'https://research.vu.nl/en/persons/marcos-oliveira' target = '_blank'>Dr. Marcos Oliveira</a>, AI & Behaviour, Dept. Computer Science, VU Amsterdam</li>
   <li><a href = 'https://research.vu.nl/en/persons/tim-groot-kormelink' target = '_blank'>Dr. Tim Groot Kormelink</a>, Dept. Journalism Studies, VU Amsterdam</li>
   <li>Aalhad Patwardhan, Dept. Computer Science, VU Amsterdam</li>
+  <li>Roos van der Molen, Dept. Journalism Studies, VU Amsterdam</li>
 </ul>
 
 
@@ -34,7 +35,7 @@ represent who users are—or who they want to be? Despite growing awareness of t
 
 To tackle these questions, our project aims to uncover mechanisms driving three fundamental misalignments: (i) how users intend to spend their time versus how they actually spend it, (ii) how users believe they spend their time versus their actual usage patterns, and (iii) how users perceive their interests and identity versus how algorithms construct them.
 
-We will recruit adult smartphone users for a three-month study. Participants will log their intentions and reflect weekly on their long-term goals. In parallel, participants will donate their digital trace data (app usage, video viewing patterns, etc.) via the Digital Data Donation Infrastructure (D3I). By combining subjective reflection and individual-level digital behavioral data, we will make quantitative as well as qualitative comparisons between users’ stated goals and preferences, and their actual digital behaviour.
+We will recruit adult smartphone users for a three-month study. Participants will log their intentions and reflect weekly on their long-term goals, and write self-reflections on their daily device usage in a diary study. In parallel, participants will donate their digital trace data (app usage, video viewing patterns, etc.). By combining subjective reflection and individual-level digital behavioral data, we will make quantitative as well as qualitative comparisons between users’ stated goals and preferences, and their actual digital behaviour.
 
 
 <!-- 

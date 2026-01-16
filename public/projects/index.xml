@@ -1,32 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Lize Alberts Personal Website</title>
+    <title>Lize Alberts Personal Website</title>
     <link>http://localhost:1313/projects/</link>
       <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate>
+    <description>Lize Alberts Personal Website</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/logo_hu_eb199afa4ce2ac7e.png</url>
-      <title>Projects</title>
+      <title>Lize Alberts Personal Website</title>
       <link>http://localhost:1313/projects/</link>
     </image>
-    
-    <item>
-      <title>Pandas</title>
-      <link>http://localhost:1313/projects/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>http://localhost:1313/projects/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>scikit-learn</title>
@@ -34,6 +18,52 @@
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/scikit/</guid>
       <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/projects/pandas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/pandas/</guid>
+      <description>&lt;!-- ---
+title: Pandas
+date: 2023-10-26
+links:
+  - type: site
+    url: https://github.com/pandas-dev/pandas
+tags:
+  - Hugo
+  - HugoBlox
+  - Markdown
+---
+
+Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+
+more --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/projects/pytorch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/pytorch/</guid>
+      <description>&lt;!-- ---
+title: PyTorch
+date: 2023-10-26
+links:
+  - type: site
+    url: https://github.com/pytorch/pytorch
+tags:
+  - Hugo
+  - HugoBlox
+  - Markdown
+---
+
+PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+
+more --&gt;
+</description>
     </item>
     
   </channel>

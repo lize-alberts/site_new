@@ -1,38 +1,56 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Learn Hugo Blox in 10 minutes! | Lize Alberts Personal Website</title>
+    <title>Lize Alberts Personal Website</title>
     <link>http://localhost:1313/courses/hugo-blox/</link>
       <atom:link href="http://localhost:1313/courses/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
-    <description>Learn Hugo Blox in 10 minutes!</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 24 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <description>Lize Alberts Personal Website</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/courses/hugo-blox/featured.jpg</url>
-      <title>Learn Hugo Blox in 10 minutes!</title>
+      <title>Lize Alberts Personal Website</title>
       <link>http://localhost:1313/courses/hugo-blox/</link>
     </image>
     
     <item>
-      <title>Getting Started</title>
+      <title></title>
       <link>http://localhost:1313/courses/hugo-blox/getting-started/</link>
-      <pubDate>Sat, 17 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/courses/hugo-blox/getting-started/</guid>
-      <description>&lt;h2 id=&#34;quick-start-from-template&#34;&gt;Quick Start from Template&lt;/h2&gt;
+      <description>&lt;!-- ---
+title: Getting Started
+date: 2024-02-17
+weight: 1
+type: docs
+---
+
+## Quick Start from Template
+
 &lt;div class=&#34;hb-steps&#34;&gt;
-&lt;h3 id=&#34;create-a-site&#34;&gt;Create a site&lt;/h3&gt;
-&lt;p&gt;
-&lt;/p&gt;
-&lt;h3 id=&#34;configure-your-new-site&#34;&gt;Configure your new site&lt;/h3&gt;
-&lt;p&gt;
-&lt;/p&gt;
-&lt;h3 id=&#34;add-your-content&#34;&gt;Add your content&lt;/h3&gt;
-&lt;p&gt;
-&lt;/p&gt;
-&lt;h3 id=&#34;publish-your-site&#34;&gt;Publish your site&lt;/h3&gt;
-&lt;p&gt;Your site will automatically publish ~1-5 minutes after you commit (save) changes to files in your GitHub repository.&lt;/p&gt;
+
+### Create a site
+
+[Click to choose your starting template](https://hugoblox.com/templates)
+
+### Configure your new site
+
+[Configure your site name, description, and menu.](https://docs.hugoblox.com/tutorial/blog/)
+
+### Add your content
+
+[Edit the homepage and add your documentation pages.](https://docs.hugoblox.com/tutorial/blog/)
+
+### Publish your site
+
+Your site will automatically publish ~1-5 minutes after you commit (save) changes to files in your GitHub repository.
+
 &lt;/div&gt;
-&lt;h2 id=&#34;next&#34;&gt;Next&lt;/h2&gt;
-&lt;p&gt;Let&amp;rsquo;s customize your new site:&lt;/p&gt;
+
+
+## Next
+
+Let&#39;s customize your new site:
+
 
 
 
@@ -59,7 +77,7 @@
 
 
 &lt;/div&gt;
-
+ --&gt;
 </description>
     </item>
     

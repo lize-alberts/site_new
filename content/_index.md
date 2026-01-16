@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: '4rem'
+  spacing: '6rem'
 
 sections:
   - block: resume-biography-3
@@ -41,47 +41,50 @@ sections:
   #       exclude_featured: false
   #   design:
   #     view: citation
-  # - block: markdown 
-  #   id: vision
-  #   content:
-  #     title: 'Mission Statement'
-  #     subtitle: ''
-  #     text: |-
-  #       A key concern of my research in human-AI interaction design is individual empowerment; ensuring designers treat users and their needs, goals and capacities with the respect they deserve. Towards this aim, I combine methods and theories from my unique interdisciplinary background in AI, humanities, and the social, cognitive and behavioural sciences.
+  - block: collection
+    id: projs
+    content:
+      title: Recent Projects
+      subtitle: ''
+      text: ''
+      # Page type to display. E.g. post, talk, publication...
+      page_type: blog
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 3
+      # Filter on criteria
+      filters:
+        author: ''
+        category: ''
+        tag: ''
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ''
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      view: article-grid
+      columns: 3
+  - block: markdown 
+    id: vision
+    content:
+      title: 'Mission Statement'
+      subtitle: ''
+      text: |-
+        A primary concern of my research is individual empowerment; designing technologies to help people achieve their goals effectively, while ensuring designers treat people (and their unique needs and capacities) with the respect they deserve. 
         
-  #       My current courses focus on understanding the cognitive and environmental factors that underlie human behaviour, and the responsible application of this knowledge in the design of digital systems. This involves critically reflecting on implicit assumptions and goals in current design solutions.
+        My human-centred approach starts with identifying specific problems and finding the most effective and responsible ways to address them, rather than starting with a tool and trying to find ways to utilise it. Thereby, I aim to maximise the benefits of AI and digitisation while minimising unecessary technological dependence and unplanned risks. 
         
-  #       I am optimistic about technological advancement, but not for its own sake, and not without seriously considering the implications. Drawing from Self-Determination Theory, I investigate how developers and UI designers may better place human autonomy, creativity, growth and wellbeing at the centre, while minimising device dependence. 
+        My research integrates psychological theory and big-picture thinking with application-specific empirical research and software design. Informed by my social sciences background and upbringing in one of South Africa's most unequal cities, critically evaluating how technology impacts broader societal issues and basic human rights is another important focus of my work.
+
+  
         
   #   design:
   #     columns: '1' 
   #     css_style: 'font-size: 2rem;' 
-  # - block: collection
-  #   id: projs
-  #   content:
-  #     title: Projects
-  #     subtitle: ''
-  #     text: ''
-  #     # Page type to display. E.g. post, talk, publication...
-  #     page_type: blog
-  #     # Choose how many pages you would like to display (0 = all pages)
-  #     count: 3
-  #     # Filter on criteria
-  #     filters:
-  #       author: ''
-  #       category: ''
-  #       tag: ''
-  #       exclude_featured: false
-  #       exclude_future: false
-  #       exclude_past: false
-  #       publication_type: ''
-  #     # Choose how many pages you would like to offset by
-  #     offset: 0
-  #     # Page order: descending (desc) or ascending (asc) date.
-  #     order: desc
-  #   design:
-  #     view: article-grid
-  #     columns: 3
+
 
   # - block: collection
   #   id: papers

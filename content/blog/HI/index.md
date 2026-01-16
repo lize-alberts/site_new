@@ -1,7 +1,7 @@
 ---
 title: Behaviour Change Support with KG-Enhanced LLMs
 summary: Investigating the effect of integrating a knowledge graph (KG) as user 'mental model' into a large language model (LLM) based dialogue agent for personalised behaviour change support. 
-date: 2025-10-02
+date: 2025-09-01
 # authors:
 #   - admin
 tags:
@@ -10,7 +10,7 @@ tags:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
 
-Investigating the effect of integrating a knowledge graph as user 'mental model' into a large language model (LLM) based dialogue agent for personalised behaviour change support. This project is funded by the 20 million Euro Hybrid Intelligence grant.
+Integrating a knowledge graph as user 'mental model' into a large language model (LLM) based dialogue agent to effectively personalise behaviour change support. This project is funded by the [Hybrid Intelligence Centre](https://www.hybrid-intelligence-centre.nl/).
 
 ## Timeline
 
