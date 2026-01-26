@@ -77,7 +77,7 @@ sections:
         
         My human-centred approach starts with identifying specific problems and finding the most effective and responsible ways to address them, rather than starting with a tool and trying to find ways to utilise it. Thereby, I aim to maximise the benefits of AI and digitisation while minimising unecessary technological dependence and unintended risks. 
         
-        My research integrates psychological theory and big-picture thinking with application-specific empirical research and software design. Informed by my social sciences background and upbringing in a developing country with stark inequalities, critically evaluating how technology impacts broader societal issues and basic human rights is another important focus of my work.
+        My research integrates psychological theory and big-picture thinking with application-specific empirical research and software design. Informed by my social sciences background and upbringing in a developing country with stark inequalities, critically evaluating how technology impacts broader societal issues and basic human rights is another important focus of my work. 
 
   
         
